@@ -20,9 +20,13 @@ assertProductionConfig(appConfig);
 
 const agentLayer = appConfig.aiDriver === "pi"
   ? makeConfiguredPiAgentLayer({
+      providerId: appConfig.modelProviderId,
       modelId: appConfig.modelId,
       timeoutMs: appConfig.readingTimeoutMs,
-      ...(appConfig.modelApiKey ? { apiKey: appConfig.modelApiKey } : {})
+      ...(appConfig.modelAuthMode === "api-key" && appConfig.modelApiKey
+        ? { apiKey: appConfig.modelApiKey }
+        : {}),
+      ...(appConfig.modelBaseUrl ? { baseUrl: appConfig.modelBaseUrl } : {})
     })
   : FakeAgentLayer;
 

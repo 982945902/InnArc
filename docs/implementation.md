@@ -76,16 +76,18 @@ pnpm dev:weapp
 
 ```dotenv
 AI_DRIVER=pi
-PI_MODEL_ID=deepseek-chat
-DEEPSEEK_API_KEY=你的服务端密钥
+PI_PROVIDER=deepseek
+PI_MODEL_ID=deepseek-v4-flash
+PI_AUTH_MODE=api-key
+PI_API_KEY=你的服务端密钥
 ```
 
-密钥只能出现在 API 服务端，不能写入 Taro 包。
+也可以把 `PI_PROVIDER` 和 `PI_MODEL_ID` 换成 Pi 内置的其他供应商与模型；若使用供应商原生环境变量、AWS/Google 云身份等认证方式，设置 `PI_AUTH_MODE=provider` 并省略 `PI_API_KEY`。密钥只能出现在 API 服务端，不能写入 Taro 包。
 
 ## 接正式环境前仍需完成
 
 - 将 `assets/cards/webp/` 上传到 HTTPS CDN，并设置 `CARD_ASSET_BASE_URL` 与小程序下载合法域名。
-- 填入正式 AppID、CloudBase 环境/云托管服务、DeepSeek 密钥和真实公示/备案编号。
+- 填入正式 AppID、CloudBase 环境/云托管服务、生产模型认证信息和真实公示/备案编号。
 - 在 CloudBase 创建发布清单中的集合、事务所需索引与过期数据清理策略。
 - 发布正式隐私政策、服务协议和反馈页面并填写 HTTPS URL。
 - 在微信开发者工具和真机检查横向牌列、翻牌帧率、弱网、中断恢复及内容安全回执。

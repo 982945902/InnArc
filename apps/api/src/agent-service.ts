@@ -36,11 +36,18 @@ const layerFromAgent = (agent: ReflectionAgent, timeoutMs = 8_000) =>
 
 export const FakeAgentLayer = layerFromAgent(new FakeReflectionAgent());
 
-export const makePiAgentLayer = (config: { readonly modelId: string; readonly apiKey?: string }) =>
+export const makePiAgentLayer = (config: {
+  readonly providerId: string;
+  readonly modelId: string;
+  readonly apiKey?: string;
+  readonly baseUrl?: string;
+}) =>
   layerFromAgent(new PiReflectionAgent(config));
 
 export const makeConfiguredPiAgentLayer = (config: {
+  readonly providerId: string;
   readonly modelId: string;
   readonly apiKey?: string;
+  readonly baseUrl?: string;
   readonly timeoutMs: number;
 }) => layerFromAgent(new PiReflectionAgent(config), config.timeoutMs);

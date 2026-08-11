@@ -1,6 +1,6 @@
 import { Agent, type AgentTool } from "@earendil-works/pi-agent-core";
-import { createModels, Type, type TSchema } from "@earendil-works/pi-ai";
-import { deepseekProvider } from "@earendil-works/pi-ai/providers/deepseek";
+import { Type, type Api, type Model, type Models, type TSchema } from "@earendil-works/pi-ai";
+import { builtinModels } from "@earendil-works/pi-ai/providers/all";
 import type { Clarification, ReadingDraft, Spread } from "@heart-mirror/contracts";
 import { clarificationPrompt, readingPrompt, spreadPrompt, SYSTEM_PROMPT } from "./prompts.js";
 import type { ClarificationInput, ReadingInput, ReflectionAgent, SpreadInput } from "./types.js";
@@ -36,15 +36,37 @@ const ReadingOutput = Type.Object({
 });
 
 export interface PiAgentConfig {
+  readonly providerId: string;
   readonly modelId: string;
   readonly apiKey?: string;
+  readonly baseUrl?: string;
 }
 
 export class PiReflectionAgent implements ReflectionAgent {
   readonly #config: PiAgentConfig;
+  readonly #models: Models;
+  readonly #model: Model<Api>;
 
   constructor(config: PiAgentConfig) {
     this.#config = config;
+    this.#models = builtinModels();
+
+    const provider = this.#models.getProvider(config.providerId);
+    if (!provider) {
+      throw new Error(`Pi 未找到模型供应商：${config.providerId}`);
+    }
+
+    const model = this.#models.getModel(config.providerId, config.modelId);
+    if (!model) {
+      const examples = this.#models.getModels(config.providerId)
+        .slice(0, 5)
+        .map((candidate) => candidate.id)
+        .join("、");
+      const hint = examples ? `；可用模型示例：${examples}` : "";
+      throw new Error(`Pi 未找到模型：${config.providerId}/${config.modelId}${hint}`);
+    }
+
+    this.#model = config.baseUrl ? { ...model, baseUrl: config.baseUrl } : model;
   }
 
   clarify(input: ClarificationInput, signal?: AbortSignal): Promise<Clarification> {
@@ -74,11 +96,6 @@ export class PiReflectionAgent implements ReflectionAgent {
   }
 
   async #run<T>(toolName: string, schema: TSchema, prompt: string, signal?: AbortSignal): Promise<T> {
-    const models = createModels();
-    models.setProvider(deepseekProvider());
-    const model = models.getModel("deepseek", this.#config.modelId);
-    if (!model) throw new Error(`Pi 未找到 DeepSeek 模型：${this.#config.modelId}`);
-
     let emitted: T | undefined;
     const tool: AgentTool = {
       name: toolName,
@@ -100,14 +117,19 @@ export class PiReflectionAgent implements ReflectionAgent {
     const agent = new Agent({
       initialState: {
         systemPrompt: SYSTEM_PROMPT,
-        model,
+        model: this.#model,
         thinkingLevel: "off",
         tools: [tool],
         messages: []
       },
-      streamFn: models.streamSimple.bind(models),
+      streamFn: this.#models.streamSimple.bind(this.#models),
       toolExecution: "sequential",
-      ...(apiKey ? { getApiKey: async () => apiKey } : {}),
+      ...(apiKey
+        ? {
+            getApiKey: async (providerId: string) =>
+              providerId === this.#config.providerId ? apiKey : undefined
+          }
+        : {}),
       beforeToolCall: async ({ toolCall }) =>
         toolCall.name === toolName
           ? undefined
