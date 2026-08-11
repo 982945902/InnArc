@@ -43,7 +43,7 @@ pnpm build
 | --- | --- | --- |
 | 正式小程序 | EXTERNAL | AppID、已认证主体、可提审类目与管理员权限 |
 | CloudBase | EXTERNAL | 正式环境 ID、云托管服务、数据库集合/索引、可信请求头和定时清理策略 |
-| 国产模型 | EXTERNAL | DeepSeek 服务端密钥、实际使用模型名称、服务方和已获批的公示/备案编号 |
+| 生成式模型 | EXTERNAL | 所选供应商的服务端认证、实际使用模型名称、服务方和已获批的公示/备案编号 |
 | 卡面 CDN | EXTERNAL | 把 `assets/cards/webp/` 上传到 HTTPS 域名并配置小程序下载合法域名 |
 | 法律文本 | EXTERNAL | 运营主体名称、联系方式、数据保存期限、隐私政策与服务协议的正式 HTTPS 页面 |
 | 真机与审核 | EXTERNAL | 微信开发者工具、低端 Android/iOS 真机、弱网、中断恢复、内容安全回执、体验版与提审 |

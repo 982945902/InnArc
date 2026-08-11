@@ -140,7 +140,11 @@ if (releaseMode) {
     "USER_ID_HMAC_SECRET",
     "WECHAT_APP_ID",
     "WECHAT_APP_SECRET",
-    "DEEPSEEK_API_KEY",
+    "PI_PROVIDER",
+    "PI_MODEL_ID",
+    "PI_AUTH_MODE",
+    "PUBLIC_MODEL_NAME",
+    "PUBLIC_MODEL_PROVIDER",
     "PUBLIC_MODEL_REGISTRATION_NUMBER",
     "CARD_ASSET_BASE_URL",
     "PUBLIC_PRIVACY_URL",
@@ -152,6 +156,15 @@ if (releaseMode) {
   if (process.env.REPOSITORY_DRIVER !== "cloudbase") fail("release 要求 REPOSITORY_DRIVER=cloudbase");
   if (process.env.SAFETY_DRIVER !== "wechat") fail("release 要求 SAFETY_DRIVER=wechat");
   if (process.env.AI_DRIVER !== "pi") fail("release 要求 AI_DRIVER=pi");
+  if (!["api-key", "provider"].includes(process.env.PI_AUTH_MODE ?? "")) {
+    fail("PI_AUTH_MODE 必须是 api-key 或 provider");
+  }
+  if (process.env.PI_AUTH_MODE === "api-key" && !process.env.PI_API_KEY) {
+    fail("PI_AUTH_MODE=api-key 时必须配置 PI_API_KEY");
+  }
+  if (process.env.PI_BASE_URL && !process.env.PI_BASE_URL.startsWith("https://")) {
+    fail("PI_BASE_URL 必须使用 HTTPS");
+  }
   if (process.env.USER_ID_HMAC_SECRET && process.env.USER_ID_HMAC_SECRET.length < 32) {
     fail("USER_ID_HMAC_SECRET 至少 32 字符");
   }

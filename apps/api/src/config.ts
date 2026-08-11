@@ -3,6 +3,7 @@ import { Context, Layer } from "effect";
 
 export type RepositoryDriver = "memory" | "cloudbase";
 export type SafetyDriver = "local" | "wechat";
+export type ModelAuthMode = "api-key" | "provider";
 
 export interface AppConfig {
   readonly environment: "development" | "test" | "production";
@@ -15,8 +16,11 @@ export interface AppConfig {
   readonly wechatAppId: string;
   readonly wechatAppSecret: string;
   readonly aiDriver: "fake" | "pi";
+  readonly modelProviderId: string;
+  readonly modelAuthMode: ModelAuthMode;
   readonly modelApiKey: string;
   readonly modelId: string;
+  readonly modelBaseUrl: string;
   readonly modelName: string;
   readonly modelProvider: string;
   readonly modelRegistrationNumber: string;
@@ -52,6 +56,8 @@ export const loadConfig = (env: NodeJS.ProcessEnv = process.env): AppConfig => {
   const repositoryDriver = env.REPOSITORY_DRIVER === "cloudbase" ? "cloudbase" : "memory";
   const safetyDriver = env.SAFETY_DRIVER === "wechat" ? "wechat" : "local";
   const aiDriver = env.AI_DRIVER === "pi" ? "pi" : "fake";
+  const modelProviderId = env.PI_PROVIDER?.trim() || "deepseek";
+  const modelAuthMode = env.PI_AUTH_MODE === "provider" ? "provider" : "api-key";
 
   return {
     environment,
@@ -64,10 +70,14 @@ export const loadConfig = (env: NodeJS.ProcessEnv = process.env): AppConfig => {
     wechatAppId: env.WECHAT_APP_ID ?? "",
     wechatAppSecret: env.WECHAT_APP_SECRET ?? "",
     aiDriver,
-    modelApiKey: env.DEEPSEEK_API_KEY ?? "",
-    modelId: env.PI_MODEL_ID ?? "deepseek-chat",
-    modelName: env.PUBLIC_MODEL_NAME ?? (aiDriver === "fake" ? "本地固定模板" : "DeepSeek Chat"),
-    modelProvider: env.PUBLIC_MODEL_PROVIDER ?? (aiDriver === "fake" ? "心镜开发环境" : "深度求索"),
+    modelProviderId,
+    modelAuthMode,
+    modelApiKey: env.PI_API_KEY ?? "",
+    modelId: env.PI_MODEL_ID?.trim() || "deepseek-v4-flash",
+    modelBaseUrl: env.PI_BASE_URL?.trim() || "",
+    modelName: env.PUBLIC_MODEL_NAME?.trim()
+      || (aiDriver === "fake" ? "本地固定模板" : (env.PI_MODEL_ID?.trim() || "deepseek-v4-flash")),
+    modelProvider: env.PUBLIC_MODEL_PROVIDER?.trim() || (aiDriver === "fake" ? "心镜开发环境" : modelProviderId),
     modelRegistrationNumber: env.PUBLIC_MODEL_REGISTRATION_NUMBER ?? "",
     promptVersion: env.PROMPT_VERSION ?? "reflection-v1",
     consentVersion: env.CONSENT_VERSION ?? "2026-08-07.v1",
@@ -92,7 +102,10 @@ export const assertProductionConfig = (config: AppConfig): void => {
   if (!config.wechatAppId) missing.push("WECHAT_APP_ID");
   if (!config.wechatAppSecret) missing.push("WECHAT_APP_SECRET");
   if (config.aiDriver !== "pi") missing.push("AI_DRIVER=pi");
-  if (!config.modelApiKey) missing.push("DEEPSEEK_API_KEY");
+  if (!config.modelProviderId) missing.push("PI_PROVIDER");
+  if (!config.modelId) missing.push("PI_MODEL_ID");
+  if (config.modelAuthMode === "api-key" && !config.modelApiKey) missing.push("PI_API_KEY");
+  if (config.modelBaseUrl && !config.modelBaseUrl.startsWith("https://")) missing.push("PI_BASE_URL(https)");
   if (!config.modelRegistrationNumber) missing.push("PUBLIC_MODEL_REGISTRATION_NUMBER");
   if (!config.cardAssetBaseUrl.startsWith("https://")) missing.push("CARD_ASSET_BASE_URL(https)");
   if (!config.privacyUrl.startsWith("https://")) missing.push("PUBLIC_PRIVACY_URL(https)");
