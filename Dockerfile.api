@@ -1,0 +1,25 @@
+FROM node:22.18.0-bookworm-slim AS build
+
+ENV PNPM_HOME=/pnpm
+ENV PATH=/pnpm:$PATH
+WORKDIR /workspace
+
+RUN corepack enable \
+  && corepack prepare pnpm@10.30.3 --activate \
+  && pnpm config set registry https://registry.npmmirror.com/
+
+COPY . .
+RUN pnpm install --frozen-lockfile
+RUN pnpm build:packages && pnpm --filter @heart-mirror/api build
+RUN pnpm --filter @heart-mirror/api deploy --prod /release
+
+FROM node:22.18.0-bookworm-slim AS runtime
+
+ENV NODE_ENV=production
+ENV HOST=0.0.0.0
+WORKDIR /app
+
+COPY --from=build --chown=node:node /release/ ./
+USER node
+EXPOSE 8787
+CMD ["node", "dist/index.js"]

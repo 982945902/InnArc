@@ -1,0 +1,15 @@
+node_modules
+dist
+.turbo
+.DS_Store
+.bun-tmp/
+.env
+apps/miniapp/.temp
+apps/miniapp/.swc/
+apps/miniapp/dist
+apps/miniapp/project.private.config.json
+coverage
+assets/cards/drafts/
+apps/showcase/cards/
+apps/showcase/deck-data.json
+apps/showcase/.vercel/

@@ -1,0 +1,23 @@
+{
+  "name": "heart-mirror",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@10.30.3",
+  "scripts": {
+    "build:packages": "pnpm --filter './packages/*' build",
+    "dev:api": "pnpm build:packages && pnpm --filter @heart-mirror/api dev",
+    "dev:weapp": "pnpm build:packages && pnpm --filter @heart-mirror/miniapp dev:weapp",
+    "build": "pnpm -r build",
+    "check": "pnpm build:packages && pnpm -r check",
+    "test": "pnpm build:packages && pnpm -r --if-present test",
+    "assets:manifest": "node scripts/build-card-manifest.mjs",
+    "build:showcase": "node scripts/build-showcase.mjs",
+    "preflight": "node scripts/release-gate.mjs --preflight",
+    "release:gate": "node scripts/release-gate.mjs --release"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.4"
+  }
+}

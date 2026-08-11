@@ -1,0 +1,40 @@
+$ink: #244039;
+$forest: #17382f;
+$gold: #bd8d3d;
+
+.subpage {
+  min-height: 100vh;
+  padding: 28px 18px 48px;
+  box-sizing: border-box;
+  background:
+    radial-gradient(circle at 8% 5%, rgba(191, 142, 62, .16), transparent 25%),
+    radial-gradient(circle at 92% 18%, rgba(73, 126, 103, .14), transparent 24%),
+    #f5efe2;
+}
+
+.sub-eyebrow, .sub-title, .sub-copy { display: block; }
+.sub-eyebrow { color: #8a7351; font-size: 9px; letter-spacing: 2px; }
+.sub-title { margin-top: 7px; color: $forest; font-size: 30px; font-weight: 600; letter-spacing: 3px; }
+.sub-copy { margin-top: 9px; color: #66736b; font-size: 12px; line-height: 1.8; }
+
+.empty-state {
+  margin-top: 24px;
+  padding: 28px 20px;
+  border: 1px solid rgba(36, 64, 57, .14);
+  border-radius: 17px;
+  background: rgba(255, 252, 245, .9);
+  color: #788078;
+  font-size: 12px;
+  line-height: 1.8;
+  text-align: center;
+}
+
+.danger-button {
+  height: 40px;
+  border: 1px solid rgba(145, 75, 69, .35);
+  border-radius: 20px;
+  background: transparent;
+  color: #955951;
+  font-size: 11px;
+  line-height: 40px;
+}

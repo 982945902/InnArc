@@ -1,0 +1,15 @@
+{
+  "miniprogramRoot": "dist/",
+  "projectname": "heart-mirror",
+  "description": "心镜 · 自我觉察卡牌",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "checkInvalidKey": true
+  },
+  "lazyCodeLoading": "requiredComponents",
+  "compileType": "miniprogram"
+}

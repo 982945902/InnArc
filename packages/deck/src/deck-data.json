@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "major-00",
+    "group": "major",
+    "index": 0,
+    "nameZh": "愚者",
+    "nameEn": "The Fool",
+    "keywords": [
+      "好奇",
+      "开放",
+      "第一步"
+    ],
+    "reflection": "如果暂时不要求确定答案，我愿意先尝试什么？",
+    "action": "写下一个十分钟内可以完成的小步骤。",
+    "artBrief": "年轻旅人站在悬崖边，肩背行囊，白犬相伴，白玫瑰与远山保留经典象征。",
+    "image": "cards/webp/major-00.webp"
+  },
+  {
+    "id": "major-01",
+    "group": "major",
+    "index": 1,
+    "nameZh": "魔术师",
+    "nameEn": "The Magician",
+    "keywords": [
+      "注意力",
+      "资源",
+      "行动"
+    ],
+    "reflection": "此刻最值得我投入注意力的事情是什么？",
+    "action": "关掉一个干扰源，专注十五分钟。",
+    "artBrief": "魔术师在花园祭台前举起权杖，桌上清楚陈列权杖、圣杯、宝剑与星币，玫瑰和百合环绕。",
+    "image": "cards/webp/major-01.webp"
+  },
+  {
+    "id": "major-02",
+    "group": "major",
+    "index": 2,
+    "nameZh": "女祭司",
+    "nameEn": "The High Priestess",
+    "keywords": [
+      "内在感受",
+      "暧昧",
+      "倾听"
+    ],
+    "reflection": "当我安静下来时，身体正在提醒我什么？",
+    "action": "闭眼呼吸一分钟，记录最先出现的三个感受词。",
+    "artBrief": "女祭司端坐于黑白双柱之间，身后是石榴帷幕，脚边新月，手持卷轴。",
+    "image": "cards/webp/major-02.webp"
+  },
+  {
+    "id": "major-03",
+    "group": "major",
+    "index": 3,
+    "nameZh": "皇后",
+    "nameEn": "The Empress",
+    "keywords": [
+      "照顾",
+      "创造",
+      "生长"
+    ],
+    "reflection": "什么环境能让我更有余裕地生长？",
+    "action": "为今天补充一件真正恢复精力的小事。",
+    "artBrief": "皇后坐在丰饶花园与麦田之间，星冠、石榴衣袍和爱心盾牌保留经典象征。",
+    "image": "cards/webp/major-03.webp"
+  },
+  {
+    "id": "major-04",
+    "group": "major",
+    "index": 4,
+    "nameZh": "皇帝",
+    "nameEn": "The Emperor",
+    "keywords": [
+      "结构",
+      "责任",
+      "保护"
+    ],
+    "reflection": "我需要在哪件事上更清楚地说可以或不可以？",
+    "action": "写下一句温和而明确的边界表达。",
+    "artBrief": "皇帝端坐于山岩前的石座，座椅饰有公羊纹样，手持权杖与圆球，红袍庄重。",
+    "image": "cards/webp/major-04.webp"
+  },
+  {
+    "id": "major-05",
+    "group": "major",
+    "index": 5,
+    "nameZh": "教皇",
+    "nameEn": "The Hierophant",
+    "keywords": [
+      "学习",
+      "价值",
+      "共同体"
+    ],
+    "reflection": "哪些经验值得继承，哪些需要重新选择？",
+    "action": "向一位可信任的人询问一个具体经验。",
+    "artBrief": "教皇在双柱之间向两位学习者传授知识，交叉钥匙与三层冠保留经典构图。",
+    "image": "cards/webp/major-05.webp"
+  },
+  {
+    "id": "major-06",
+    "group": "major",
+    "index": 6,
+    "nameZh": "恋人",
+    "nameEn": "The Lovers",
+    "keywords": [
+      "互相看见",
+      "选择",
+      "同意"
+    ],
+    "reflection": "这段关系里，我与对方各自需要被怎样看见？",
+    "action": "用我感到……我需要……说一次不指责的表达。",
+    "artBrief": "两位人物在花园中坦诚相对，中央由太阳与温和守护形象连接，背后有两棵象征选择的树。",
+    "image": "cards/webp/major-06.webp"
+  },
+  {
+    "id": "major-07",
+    "group": "major",
+    "index": 7,
+    "nameZh": "战车",
+    "nameEn": "The Chariot",
+    "keywords": [
+      "方向",
+      "自我调节",
+      "推进"
+    ],
+    "reflection": "目前有哪些事情仍然在我的掌控中？",
+    "action": "从可控清单中选一项今天执行。",
+    "artBrief": "战车驾驭者站在星幕车中，由一黑一白两只斯芬克斯引导，城池在后，道路向前。",
+    "image": "cards/webp/major-07.webp"
+  },
+  {
+    "id": "major-08",
+    "group": "major",
+    "index": 8,
+    "nameZh": "力量",
+    "nameEn": "Strength",
+    "keywords": [
+      "柔韧",
+      "情绪调节",
+      "真诚"
+    ],
+    "reflection": "我可以怎样温柔地面对正在害怕的部分？",
+    "action": "把担忧写成一句事实和一句需要。",
+    "artBrief": "身着白衣的人温柔合拢狮子的嘴，头顶无限花环，展现柔韧而非制服。",
+    "image": "cards/webp/major-08.webp"
+  },
+  {
+    "id": "major-09",
+    "group": "major",
+    "index": 9,
+    "nameZh": "隐士",
+    "nameEn": "The Hermit",
+    "keywords": [
+      "安静",
+      "反思",
+      "恢复"
+    ],
+    "reflection": "什么声音只有在安静时才能听见？",
+    "action": "安排十五分钟无屏幕独处。",
+    "artBrief": "隐士披灰袍立于雪山之巅，提六芒星灯并持长杖，向下照亮道路。",
+    "image": "cards/webp/major-09.webp"
+  },
+  {
+    "id": "major-10",
+    "group": "major",
+    "index": 10,
+    "nameZh": "命运之轮",
+    "nameEn": "Wheel of Fortune",
+    "keywords": [
+      "周期",
+      "适应",
+      "流动"
+    ],
+    "reflection": "面对变化，我能调整的部分是什么？",
+    "action": "列出一个要保留的习惯和一个要改变的做法。",
+    "artBrief": "巨大的金色命运之轮位于云间，四角书卷守护者与轮缘生物构成经典象征。",
+    "image": "cards/webp/major-10.webp"
+  },
+  {
+    "id": "major-11",
+    "group": "major",
+    "index": 11,
+    "nameZh": "正义",
+    "nameEn": "Justice",
+    "keywords": [
+      "公平",
+      "证据",
+      "责任"
+    ],
+    "reflection": "我是否同样考虑了自己和他人的需要？",
+    "action": "为两个立场各写下一条有效事实。",
+    "artBrief": "正义端坐于红色帷幕前，一手持直剑、一手持天平，双柱构图稳定对称。",
+    "image": "cards/webp/major-11.webp"
+  },
+  {
+    "id": "major-12",
+    "group": "major",
+    "index": 12,
+    "nameZh": "倒吊人",
+    "nameEn": "The Hanged Man",
+    "keywords": [
+      "暂停",
+      "新视角",
+      "松开确定"
+    ],
+    "reflection": "如果从另一个角度看，这件事会有什么不同？",
+    "action": "用对方或未来自己的视角重写一句描述。",
+    "artBrief": "人物以一只脚安全悬挂在活木横架上，另一腿弯曲成形，神情平静，头部有柔和金光。",
+    "image": "cards/webp/major-12.webp"
+  },
+  {
+    "id": "major-13",
+    "group": "major",
+    "index": 13,
+    "nameZh": "死神",
+    "nameEn": "Death",
+    "keywords": [
+      "结束",
+      "更新",
+      "身份变化"
+    ],
+    "reflection": "我正在告别什么，又希望为谁腾出空间？",
+    "action": "完成一个小型告别仪式，例如整理或归档。",
+    "artBrief": "披黑甲的骷髅骑白马缓步穿过旧阶段的终点，远方双塔之间太阳升起，白玫瑰旗帜象征转化。",
+    "image": "cards/webp/major-13.webp"
+  },
+  {
+    "id": "major-14",
+    "group": "major",
+    "index": 14,
+    "nameZh": "节制",
+    "nameEn": "Temperance",
+    "keywords": [
+      "节奏",
+      "综合",
+      "适度"
+    ],
+    "reflection": "哪两个看似冲突的需要可以同时被照顾？",
+    "action": "为两种需要各安排一个最小动作。",
+    "artBrief": "有翼人物一脚立地一脚入水，在两只圣杯之间平稳倒水，远方道路通向日光。",
+    "image": "cards/webp/major-14.webp"
+  },
+  {
+    "id": "major-15",
+    "group": "major",
+    "index": 15,
+    "nameZh": "恶魔",
+    "nameEn": "The Devil",
+    "keywords": [
+      "依附",
+      "惯性",
+      "选择权"
+    ],
+    "reflection": "我抓住的是需要本身，还是满足它的唯一方式？",
+    "action": "为同一需要写出三种不同满足方式。",
+    "artBrief": "带角的经典恶魔形象立于石座，两位人物颈间松链清楚可解，火把与倒五角星保留传统象征。",
+    "image": "cards/webp/major-15.webp"
+  },
+  {
+    "id": "major-16",
+    "group": "major",
+    "index": 16,
+    "nameZh": "高塔",
+    "nameEn": "The Tower",
+    "keywords": [
+      "突变",
+      "洞察",
+      "释放"
+    ],
+    "reflection": "旧结构正在松动时，什么新的可能出现了？",
+    "action": "找出一个不再有效的规则并写下替代方案。",
+    "artBrief": "闪电击中高塔之冠，两个人物从塔侧坠向柔软云层，火花四散，表达突变而避免伤害细节。",
+    "image": "cards/webp/major-16.webp"
+  },
+  {
+    "id": "major-17",
+    "group": "major",
+    "index": 17,
+    "nameZh": "星星",
+    "nameEn": "The Star",
+    "keywords": [
+      "修复",
+      "信任",
+      "慷慨"
+    ],
+    "reflection": "什么微小证据说明事情并非毫无可能？",
+    "action": "记录今天出现的一个支持性信号。",
+    "artBrief": "人物跪在池边，以两只水罐浇灌水面与土地，天空一颗大星与七颗小星清晰可见。",
+    "image": "cards/webp/major-17.webp"
+  },
+  {
+    "id": "major-18",
+    "group": "major",
+    "index": 18,
+    "nameZh": "月亮",
+    "nameEn": "The Moon",
+    "keywords": [
+      "梦境",
+      "不确定",
+      "隐性情绪"
+    ],
+    "reflection": "这个反复出现的感受可能在保护什么？",
+    "action": "给感受命名，不急着解释或解决。",
+    "artBrief": "月亮俯照双塔之间的蜿蜒小路，狗与狼分立两侧，螯虾从池水中出现。",
+    "image": "cards/webp/major-18.webp"
+  },
+  {
+    "id": "major-19",
+    "group": "major",
+    "index": 19,
+    "nameZh": "太阳",
+    "nameEn": "The Sun",
+    "keywords": [
+      "玩耍",
+      "温暖",
+      "可见"
+    ],
+    "reflection": "什么会让我感觉更鲜活、更像自己？",
+    "action": "安排十分钟纯粹为了喜欢的活动。",
+    "artBrief": "快乐孩童骑白马穿过向日葵花墙，手持红旗，巨大太阳在上方放射光芒。",
+    "image": "cards/webp/major-19.webp"
+  },
+  {
+    "id": "major-20",
+    "group": "major",
+    "index": 20,
+    "nameZh": "审判",
+    "nameEn": "Judgement",
+    "keywords": [
+      "回顾",
+      "召唤",
+      "更新"
+    ],
+    "reflection": "回看这段经历，真正重要的是什么？",
+    "action": "写下继续、停止、开始各一件事。",
+    "artBrief": "天使在云中吹响号角，人们从象征旧阶段的方形容器中起身回应，远山与海面开阔。",
+    "image": "cards/webp/major-20.webp"
+  },
+  {
+    "id": "major-21",
+    "group": "major",
+    "index": 21,
+    "nameZh": "世界",
+    "nameEn": "The World",
+    "keywords": [
+      "整合",
+      "完成",
+      "归属"
+    ],
+    "reflection": "我已经走完了哪一段值得承认的路？",
+    "action": "用一句话庆祝一个真实完成。",
+    "artBrief": "舞者位于椭圆月桂花环中央，手持双杖，四角呈现人、鹰、狮与牛的经典象征。",
+    "image": "cards/webp/major-21.webp"
+  },
+  {
+    "id": "wands-01",
+    "group": "wands",
+    "index": 1,
+    "nameZh": "权杖王牌",
+    "nameEn": "Ace of Wands",
+    "keywords": [
+      "动力",
+      "灵感",
+      "开始"
+    ],
+    "reflection": "什么念头正在让我眼睛发亮？",
+    "action": "把灵感变成一条可执行句子。",
+    "artBrief": "手从花园火盆取出一枝发光新芽，红罂粟与橙色鸢尾。",
+    "image": "cards/webp/wands-01.webp"
+  },
+  {
+    "id": "wands-02",
+    "group": "wands",
+    "index": 2,
+    "nameZh": "权杖二",
+    "nameEn": "Two of Wands",
+    "keywords": [
+      "选择",
+      "规划",
+      "可能性"
+    ],
+    "reflection": "两个方向分别满足了我什么需要？",
+    "action": "为每个方向写一项收益与代价。",
+    "artBrief": "人物站在露台手持两枝开花木杖，眺望两条远方道路。",
+    "image": "cards/webp/wands-02.webp"
+  },
+  {
+    "id": "wands-03",
+    "group": "wands",
+    "index": 3,
+    "nameZh": "权杖三",
+    "nameEn": "Three of Wands",
+    "keywords": [
+      "拓展",
+      "等待反馈",
+      "视野"
+    ],
+    "reflection": "我希望这次行动把我带向怎样的视野？",
+    "action": "向外发送一个小型试探或询问。",
+    "artBrief": "人物立于海崖，三枝花杖与远帆构成纵深。",
+    "image": "cards/webp/wands-03.webp"
+  },
+  {
+    "id": "wands-04",
+    "group": "wands",
+    "index": 4,
+    "nameZh": "权杖四",
+    "nameEn": "Four of Wands",
+    "keywords": [
+      "里程碑",
+      "共享",
+      "安定"
+    ],
+    "reflection": "有什么进展值得在继续前先庆祝？",
+    "action": "把一项进展告诉支持你的人。",
+    "artBrief": "四根花杖搭成花门，人们在庭院共享简单庆祝。",
+    "image": "cards/webp/wands-04.webp"
+  },
+  {
+    "id": "wands-05",
+    "group": "wands",
+    "index": 5,
+    "nameZh": "权杖五",
+    "nameEn": "Five of Wands",
+    "keywords": [
+      "差异",
+      "竞争",
+      "试验"
+    ],
+    "reflection": "冲突里哪些是观点差异，哪些是未被表达的需要？",
+    "action": "把争论改写成一个共同问题。",
+    "artBrief": "五位年轻人在草地用彩色木杖进行合作练习，无攻击感。",
+    "image": "cards/webp/wands-05.webp"
+  },
+  {
+    "id": "wands-06",
+    "group": "wands",
+    "index": 6,
+    "nameZh": "权杖六",
+    "nameEn": "Six of Wands",
+    "keywords": [
+      "肯定",
+      "影响力",
+      "反馈"
+    ],
+    "reflection": "我希望别人看见的是成果，还是背后的努力？",
+    "action": "具体感谢一次自己的投入。",
+    "artBrief": "花环装饰的骑行者经过欢迎人群，气氛温暖不崇拜。",
+    "image": "cards/webp/wands-06.webp"
+  },
+  {
+    "id": "wands-07",
+    "group": "wands",
+    "index": 7,
+    "nameZh": "权杖七",
+    "nameEn": "Seven of Wands",
+    "keywords": [
+      "立场",
+      "防护",
+      "坚持"
+    ],
+    "reflection": "什么立场值得坚持，什么方式可以更柔软？",
+    "action": "写下底线与可协商部分。",
+    "artBrief": "人物在花坡顶稳稳扶住一枝木杖，其他六枝如问题般从下方伸来。",
+    "image": "cards/webp/wands-07.webp"
+  },
+  {
+    "id": "wands-08",
+    "group": "wands",
+    "index": 8,
+    "nameZh": "权杖八",
+    "nameEn": "Eight of Wands",
+    "keywords": [
+      "消息",
+      "速度",
+      "推进"
+    ],
+    "reflection": "速度正在帮助我，还是让我失去觉察？",
+    "action": "在继续前设一个短暂停顿点。",
+    "artBrief": "八枝开花木杖像候鸟般掠过金色天空与河谷。",
+    "image": "cards/webp/wands-08.webp"
+  },
+  {
+    "id": "wands-09",
+    "group": "wands",
+    "index": 9,
+    "nameZh": "权杖九",
+    "nameEn": "Nine of Wands",
+    "keywords": [
+      "经验",
+      "警觉",
+      "坚持"
+    ],
+    "reflection": "过去的经验正在保护我，也可能限制我什么？",
+    "action": "区分真实风险和旧有警报。",
+    "artBrief": "有绷带但神情安稳的园丁守在九枝木杖旁，背后有安全花园。",
+    "image": "cards/webp/wands-09.webp"
+  },
+  {
+    "id": "wands-10",
+    "group": "wands",
+    "index": 10,
+    "nameZh": "权杖十",
+    "nameEn": "Ten of Wands",
+    "keywords": [
+      "责任",
+      "过载",
+      "委派"
+    ],
+    "reflection": "哪些责任真正属于我，哪些可以放下或求助？",
+    "action": "移除、延后或委派一项任务。",
+    "artBrief": "人物抱着十枝开花木杖走向近处庭院，负重但道路清楚。",
+    "image": "cards/webp/wands-10.webp"
+  },
+  {
+    "id": "wands-11",
+    "group": "wands",
+    "index": 11,
+    "nameZh": "权杖侍从",
+    "nameEn": "Page of Wands",
+    "keywords": [
+      "试验",
+      "热情",
+      "学习"
+    ],
+    "reflection": "我可以用什么低成本方式试一试？",
+    "action": "做一个不超过二十分钟的原型。",
+    "artBrief": "好奇学徒观察手中刚发芽的木杖，沙地与远山。",
+    "image": "cards/webp/wands-11.webp"
+  },
+  {
+    "id": "wands-12",
+    "group": "wands",
+    "index": 12,
+    "nameZh": "权杖骑士",
+    "nameEn": "Knight of Wands",
+    "keywords": [
+      "行动",
+      "冒险",
+      "冲劲"
+    ],
+    "reflection": "怎样让冲劲带上必要的安全感？",
+    "action": "行动前补上一项风险检查。",
+    "artBrief": "行动者骑马穿过花原，手持开花木杖，动感但安全。",
+    "image": "cards/webp/wands-12.webp"
+  },
+  {
+    "id": "wands-13",
+    "group": "wands",
+    "index": 13,
+    "nameZh": "权杖皇后",
+    "nameEn": "Queen of Wands",
+    "keywords": [
+      "自信",
+      "独立",
+      "感染力"
+    ],
+    "reflection": "我如何在发光时也给别人空间？",
+    "action": "表达主张后主动邀请反馈。",
+    "artBrief": "自信守护者坐在向日葵与黑猫相伴的花园座椅。",
+    "image": "cards/webp/wands-13.webp"
+  },
+  {
+    "id": "wands-14",
+    "group": "wands",
+    "index": 14,
+    "nameZh": "权杖国王",
+    "nameEn": "King of Wands",
+    "keywords": [
+      "愿景",
+      "领导",
+      "创造"
+    ],
+    "reflection": "我的热情怎样转化为他人可参与的方向？",
+    "action": "把愿景写成下一步与负责人。",
+    "artBrief": "成熟引路人站在火红百合和远城之间，木杖已长成绿枝。",
+    "image": "cards/webp/wands-14.webp"
+  },
+  {
+    "id": "cups-01",
+    "group": "cups",
+    "index": 1,
+    "nameZh": "圣杯王牌",
+    "nameEn": "Ace of Cups",
+    "keywords": [
+      "情绪",
+      "开放",
+      "接纳"
+    ],
+    "reflection": "此刻最明显的感受是什么，它需要什么？",
+    "action": "用我感到……因为……写一句话。",
+    "artBrief": "双手接住溢满清水的杯，白鸽与睡莲，水流成柔和花纹。",
+    "image": "cards/webp/cups-01.webp"
+  },
+  {
+    "id": "cups-02",
+    "group": "cups",
+    "index": 2,
+    "nameZh": "圣杯二",
+    "nameEn": "Two of Cups",
+    "keywords": [
+      "互惠",
+      "相遇",
+      "理解"
+    ],
+    "reflection": "我们之间哪一点是真正互相理解的？",
+    "action": "复述对方观点并确认是否准确。",
+    "artBrief": "两人交换盛花的杯子，水纹相接成一个圆。",
+    "image": "cards/webp/cups-02.webp"
+  },
+  {
+    "id": "cups-03",
+    "group": "cups",
+    "index": 3,
+    "nameZh": "圣杯三",
+    "nameEn": "Three of Cups",
+    "keywords": [
+      "友谊",
+      "支持",
+      "分享"
+    ],
+    "reflection": "我愿意让谁参与这段经历？",
+    "action": "向一位可靠的人发出具体邀请。",
+    "artBrief": "三位朋友在果园举杯庆祝劳动，脚边是丰收花篮。",
+    "image": "cards/webp/cups-03.webp"
+  },
+  {
+    "id": "cups-04",
+    "group": "cups",
+    "index": 4,
+    "nameZh": "圣杯四",
+    "nameEn": "Four of Cups",
+    "keywords": [
+      "倦怠",
+      "无感",
+      "重新看见"
+    ],
+    "reflection": "我是真的不需要，还是暂时没有余力感受？",
+    "action": "先休息，再重新评估一个选项。",
+    "artBrief": "树下人物安静看着三个杯，第四杯由枝叶托住在视线边缘。",
+    "image": "cards/webp/cups-04.webp"
+  },
+  {
+    "id": "cups-05",
+    "group": "cups",
+    "index": 5,
+    "nameZh": "圣杯五",
+    "nameEn": "Five of Cups",
+    "keywords": [
+      "遗憾",
+      "哀伤",
+      "仍然拥有"
+    ],
+    "reflection": "失去的部分值得怎样被承认？",
+    "action": "允许自己为这件事写下三句话。",
+    "artBrief": "披深蓝斗篷的人看着三只倒下的空杯，身后两杯仍立，桥通向暖屋。",
+    "image": "cards/webp/cups-05.webp"
+  },
+  {
+    "id": "cups-06",
+    "group": "cups",
+    "index": 6,
+    "nameZh": "圣杯六",
+    "nameEn": "Six of Cups",
+    "keywords": [
+      "过去",
+      "纯真",
+      "熟悉"
+    ],
+    "reflection": "这段回忆带给我的支持与局限分别是什么？",
+    "action": "保留一个温暖细节，放下一个旧规则。",
+    "artBrief": "老庭院中两个不同年龄的人分享装花的小杯，气氛怀旧。",
+    "image": "cards/webp/cups-06.webp"
+  },
+  {
+    "id": "cups-07",
+    "group": "cups",
+    "index": 7,
+    "nameZh": "圣杯七",
+    "nameEn": "Seven of Cups",
+    "keywords": [
+      "选择",
+      "幻想",
+      "辨别"
+    ],
+    "reflection": "哪些可能性有证据支持，哪些只是愿望？",
+    "action": "为最心动的选项补一条现实验证。",
+    "artBrief": "人物看向云雾中的七个透明杯，每杯盛着不同普通象征物。",
+    "image": "cards/webp/cups-07.webp"
+  },
+  {
+    "id": "cups-08",
+    "group": "cups",
+    "index": 8,
+    "nameZh": "圣杯八",
+    "nameEn": "Eight of Cups",
+    "keywords": [
+      "告别",
+      "寻找意义",
+      "前行"
+    ],
+    "reflection": "继续留下的代价是否已经高于离开？",
+    "action": "写下安全离开的第一步和支持者。",
+    "artBrief": "旅人从八个整齐杯子旁走向山间月光路，姿态坚定平静。",
+    "image": "cards/webp/cups-08.webp"
+  },
+  {
+    "id": "cups-09",
+    "group": "cups",
+    "index": 9,
+    "nameZh": "圣杯九",
+    "nameEn": "Nine of Cups",
+    "keywords": [
+      "享受",
+      "愿望",
+      "足够"
+    ],
+    "reflection": "怎样的足够感可以在今天出现？",
+    "action": "慢慢完成一件让身体舒服的小事。",
+    "artBrief": "微笑人物坐在九只装花杯前的蓝色帷幕下，温暖而克制。",
+    "image": "cards/webp/cups-09.webp"
+  },
+  {
+    "id": "cups-10",
+    "group": "cups",
+    "index": 10,
+    "nameZh": "圣杯十",
+    "nameEn": "Ten of Cups",
+    "keywords": [
+      "家庭",
+      "社区",
+      "共享安全"
+    ],
+    "reflection": "什么关系让我可以真实地做自己？",
+    "action": "向一个安全关系表达感谢或需要。",
+    "artBrief": "多代人与动物在河边家园相聚，十只杯如彩虹般装饰上方。",
+    "image": "cards/webp/cups-10.webp"
+  },
+  {
+    "id": "cups-11",
+    "group": "cups",
+    "index": 11,
+    "nameZh": "圣杯侍从",
+    "nameEn": "Page of Cups",
+    "keywords": [
+      "敏感",
+      "邀请",
+      "新感受"
+    ],
+    "reflection": "我愿意怎样好奇地靠近自己的感受？",
+    "action": "为一个感受画形状或选颜色。",
+    "artBrief": "海边学徒端详杯中探出的友善小鱼，莲花与贝壳。",
+    "image": "cards/webp/cups-11.webp"
+  },
+  {
+    "id": "cups-12",
+    "group": "cups",
+    "index": 12,
+    "nameZh": "圣杯骑士",
+    "nameEn": "Knight of Cups",
+    "keywords": [
+      "浪漫",
+      "表达",
+      "追随内心"
+    ],
+    "reflection": "表达感受时，我能否同时尊重现实和边界？",
+    "action": "把暗示改成清楚而可拒绝的邀请。",
+    "artBrief": "骑手缓慢沿水岸前行，双手端杯，白马与垂柳。",
+    "image": "cards/webp/cups-12.webp"
+  },
+  {
+    "id": "cups-13",
+    "group": "cups",
+    "index": 13,
+    "nameZh": "圣杯皇后",
+    "nameEn": "Queen of Cups",
+    "keywords": [
+      "共情",
+      "稳定",
+      "直觉"
+    ],
+    "reflection": "怎样关心别人而不淹没自己？",
+    "action": "帮助前先确认自己的余力。",
+    "artBrief": "守护者坐在海边石座，杯在手中，衣摆如平静波浪。",
+    "image": "cards/webp/cups-13.webp"
+  },
+  {
+    "id": "cups-14",
+    "group": "cups",
+    "index": 14,
+    "nameZh": "圣杯国王",
+    "nameEn": "King of Cups",
+    "keywords": [
+      "情绪成熟",
+      "包容",
+      "稳重"
+    ],
+    "reflection": "我能怎样容纳感受而不被它决定行动？",
+    "action": "先命名情绪，再选择行为。",
+    "artBrief": "成熟引路人坐在海上石台，杯与船只相伴，海面稳定。",
+    "image": "cards/webp/cups-14.webp"
+  },
+  {
+    "id": "swords-01",
+    "group": "swords",
+    "index": 1,
+    "nameZh": "宝剑王牌",
+    "nameEn": "Ace of Swords",
+    "keywords": [
+      "洞察",
+      "真相",
+      "决定"
+    ],
+    "reflection": "如果只描述事实，不加入推测，会剩下什么？",
+    "action": "把事实和解释分成两列。",
+    "artBrief": "一只手从云中托起直立宝剑，剑尖穿过王冠与月桂花环，群山在远方。",
+    "image": "cards/webp/swords-01.webp"
+  },
+  {
+    "id": "swords-02",
+    "group": "swords",
+    "index": 2,
+    "nameZh": "宝剑二",
+    "nameEn": "Two of Swords",
+    "keywords": [
+      "暂停",
+      "防御",
+      "两难"
+    ],
+    "reflection": "我缺少的是信息、勇气，还是允许自己选择？",
+    "action": "列出做决定前真正需要的一条信息。",
+    "artBrief": "蒙眼人物背向海面坐着，双手交叉持两把宝剑，新月悬于天空。",
+    "image": "cards/webp/swords-02.webp"
+  },
+  {
+    "id": "swords-03",
+    "group": "swords",
+    "index": 3,
+    "nameZh": "宝剑三",
+    "nameEn": "Three of Swords",
+    "keywords": [
+      "受伤",
+      "诚实",
+      "修复"
+    ],
+    "reflection": "什么话或事实真正刺痛了我？",
+    "action": "用不评价的语言写下受伤点。",
+    "artBrief": "红色心形象征被三把宝剑穿过，雨云低垂，不出现血液或人体伤害。",
+    "image": "cards/webp/swords-03.webp"
+  },
+  {
+    "id": "swords-04",
+    "group": "swords",
+    "index": 4,
+    "nameZh": "宝剑四",
+    "nameEn": "Four of Swords",
+    "keywords": [
+      "休息",
+      "整合",
+      "恢复"
+    ],
+    "reflection": "我的大脑和身体正在请求哪种休息？",
+    "action": "选择十分钟静息、散步或伸展。",
+    "artBrief": "人物安静平卧于纪念长椅，三把宝剑固定在墙面，一把位于长椅侧面，彩窗投下柔光。",
+    "image": "cards/webp/swords-04.webp"
+  },
+  {
+    "id": "swords-05",
+    "group": "swords",
+    "index": 5,
+    "nameZh": "宝剑五",
+    "nameEn": "Five of Swords",
+    "keywords": [
+      "胜负",
+      "代价",
+      "关系"
+    ],
+    "reflection": "即使赢了，我可能失去什么？",
+    "action": "提出一个不以输赢为目标的方案。",
+    "artBrief": "一人手持三把宝剑回望，两把宝剑留在地面，两人沿海岸离开，天空多云。",
+    "image": "cards/webp/swords-05.webp"
+  },
+  {
+    "id": "swords-06",
+    "group": "swords",
+    "index": 6,
+    "nameZh": "宝剑六",
+    "nameEn": "Six of Swords",
+    "keywords": [
+      "移动",
+      "恢复",
+      "支持"
+    ],
+    "reflection": "我正在从什么状态移动到什么状态？",
+    "action": "为过渡期降低一个不必要要求。",
+    "artBrief": "船夫载一名披斗篷者与孩子渡河，六把宝剑竖直固定在船头，远岸平静。",
+    "image": "cards/webp/swords-06.webp"
+  },
+  {
+    "id": "swords-07",
+    "group": "swords",
+    "index": 7,
+    "nameZh": "宝剑七",
+    "nameEn": "Seven of Swords",
+    "keywords": [
+      "策略",
+      "隐瞒",
+      "机动"
+    ],
+    "reflection": "我是在保护隐私，还是回避必要沟通？",
+    "action": "决定一件可以直接说清的事。",
+    "artBrief": "人物从营地带走五把宝剑并回望，另外两把留在原处，动作谨慎。",
+    "image": "cards/webp/swords-07.webp"
+  },
+  {
+    "id": "swords-08",
+    "group": "swords",
+    "index": 8,
+    "nameZh": "宝剑八",
+    "nameEn": "Eight of Swords",
+    "keywords": [
+      "限制",
+      "信念",
+      "选择"
+    ],
+    "reflection": "哪些限制是客观存在，哪些来自我的预设？",
+    "action": "找出一项仍可移动的最小空间。",
+    "artBrief": "蒙眼人物被松散布带环绕，八把宝剑插在泥地形成开放围栏，远处城堡可见。",
+    "image": "cards/webp/swords-08.webp"
+  },
+  {
+    "id": "swords-09",
+    "group": "swords",
+    "index": 9,
+    "nameZh": "宝剑九",
+    "nameEn": "Nine of Swords",
+    "keywords": [
+      "担忧",
+      "反刍",
+      "夜晚"
+    ],
+    "reflection": "担忧在试图提前解决哪个尚未发生的问题？",
+    "action": "把担忧分为现在处理和明天再看。",
+    "artBrief": "夜里人物从床上坐起掩面，墙面依次悬挂九把宝剑，床被饰有星座与花纹。",
+    "image": "cards/webp/swords-09.webp"
+  },
+  {
+    "id": "swords-10",
+    "group": "swords",
+    "index": 10,
+    "nameZh": "宝剑十",
+    "nameEn": "Ten of Swords",
+    "keywords": [
+      "耗尽",
+      "结束",
+      "重启"
+    ],
+    "reflection": "什么已经结束，却仍在被我重复维持？",
+    "action": "停止一个确认无效的小动作。",
+    "artBrief": "人物俯卧在黎明海岸，十把宝剑构成高度图案化的结束象征，远方太阳升起，无血液。",
+    "image": "cards/webp/swords-10.webp"
+  },
+  {
+    "id": "swords-11",
+    "group": "swords",
+    "index": 11,
+    "nameZh": "宝剑侍从",
+    "nameEn": "Page of Swords",
+    "keywords": [
+      "好奇",
+      "观察",
+      "消息"
+    ],
+    "reflection": "我还需要观察什么，才能减少武断？",
+    "action": "寻找一条与自己观点不同的可靠信息。",
+    "artBrief": "宝剑侍从双手持剑站在风吹高地，云层快速移动，姿态警觉好奇。",
+    "image": "cards/webp/swords-11.webp"
+  },
+  {
+    "id": "swords-12",
+    "group": "swords",
+    "index": 12,
+    "nameZh": "宝剑骑士",
+    "nameEn": "Knight of Swords",
+    "keywords": [
+      "直接",
+      "速度",
+      "主张"
+    ],
+    "reflection": "怎样直接表达而不让速度变成伤害？",
+    "action": "发送前读一遍，删掉一个指责词。",
+    "artBrief": "宝剑骑士骑白马迎风前行，高举宝剑，乌云被强风吹散，避免战斗场面。",
+    "image": "cards/webp/swords-12.webp"
+  },
+  {
+    "id": "swords-13",
+    "group": "swords",
+    "index": 13,
+    "nameZh": "宝剑皇后",
+    "nameEn": "Queen of Swords",
+    "keywords": [
+      "辨别",
+      "独立",
+      "清楚"
+    ],
+    "reflection": "我如何保持清楚，又不把脆弱关在门外？",
+    "action": "在观点后补一句真实感受。",
+    "artBrief": "宝剑皇后端坐于云层高地，右手持直剑、左手向前伸出，蝴蝶与风纹装饰王座。",
+    "image": "cards/webp/swords-13.webp"
+  },
+  {
+    "id": "swords-14",
+    "group": "swords",
+    "index": 14,
+    "nameZh": "宝剑国王",
+    "nameEn": "King of Swords",
+    "keywords": [
+      "原则",
+      "理性",
+      "决断"
+    ],
+    "reflection": "这个决定依据的核心原则是什么？",
+    "action": "用一句原则检查三个选项。",
+    "artBrief": "宝剑国王端坐于开阔天空下，直剑向上，树木被风吹动，神情理性坚定。",
+    "image": "cards/webp/swords-14.webp"
+  },
+  {
+    "id": "pentacles-01",
+    "group": "pentacles",
+    "index": 1,
+    "nameZh": "星币王牌",
+    "nameEn": "Ace of Pentacles",
+    "keywords": [
+      "资源",
+      "机会",
+      "落地"
+    ],
+    "reflection": "手边已有的哪项资源可以真正用起来？",
+    "action": "把资源转成今天的一次具体使用。",
+    "artBrief": "双手托起刻有花纹的金色种子，背景为开阔花园拱门。",
+    "image": "cards/webp/pentacles-01.webp"
+  },
+  {
+    "id": "pentacles-02",
+    "group": "pentacles",
+    "index": 2,
+    "nameZh": "星币二",
+    "nameEn": "Two of Pentacles",
+    "keywords": [
+      "平衡",
+      "弹性",
+      "节奏"
+    ],
+    "reflection": "我是在灵活协调，还是长期透支？",
+    "action": "为最重要的事情保留固定时间。",
+    "artBrief": "舞者用绿色丝带连接两枚圆形种子，海上小船随波起伏。",
+    "image": "cards/webp/pentacles-02.webp"
+  },
+  {
+    "id": "pentacles-03",
+    "group": "pentacles",
+    "index": 3,
+    "nameZh": "星币三",
+    "nameEn": "Three of Pentacles",
+    "keywords": [
+      "团队",
+      "技能",
+      "贡献"
+    ],
+    "reflection": "我的专长怎样与他人的能力拼合？",
+    "action": "明确一次分工、标准和交付时间。",
+    "artBrief": "三位工匠在花窗工坊共同完成圆形马赛克。",
+    "image": "cards/webp/pentacles-03.webp"
+  },
+  {
+    "id": "pentacles-04",
+    "group": "pentacles",
+    "index": 4,
+    "nameZh": "星币四",
+    "nameEn": "Four of Pentacles",
+    "keywords": [
+      "安全感",
+      "控制",
+      "保留"
+    ],
+    "reflection": "我抓紧这项资源是为了安全，还是因为害怕流动？",
+    "action": "小范围分享一项不会损害安全的资源。",
+    "artBrief": "城市花园中人物抱着一枚圆形种子，脚边与头顶还有三枚，姿态反思。",
+    "image": "cards/webp/pentacles-04.webp"
+  },
+  {
+    "id": "pentacles-05",
+    "group": "pentacles",
+    "index": 5,
+    "nameZh": "星币五",
+    "nameEn": "Five of Pentacles",
+    "keywords": [
+      "困难",
+      "排除",
+      "求助"
+    ],
+    "reflection": "当我感到匮乏时，哪些支持被忽略了？",
+    "action": "向一个明确渠道提出具体求助。",
+    "artBrief": "两位旅人经过温暖花窗，雪中道路通向亮门，彼此扶持。",
+    "image": "cards/webp/pentacles-05.webp"
+  },
+  {
+    "id": "pentacles-06",
+    "group": "pentacles",
+    "index": 6,
+    "nameZh": "星币六",
+    "nameEn": "Six of Pentacles",
+    "keywords": [
+      "给予",
+      "接受",
+      "公平"
+    ],
+    "reflection": "这段交换是否让双方都保有尊严和选择？",
+    "action": "确认对方真正需要什么再提供帮助。",
+    "artBrief": "园丁用小秤分配种子给两位伙伴，六枚圆章如花朵环绕。",
+    "image": "cards/webp/pentacles-06.webp"
+  },
+  {
+    "id": "pentacles-07",
+    "group": "pentacles",
+    "index": 7,
+    "nameZh": "星币七",
+    "nameEn": "Seven of Pentacles",
+    "keywords": [
+      "评估",
+      "生长",
+      "长期"
+    ],
+    "reflection": "现在需要继续投入、调整方法，还是等待反馈？",
+    "action": "设定一个明确复盘日期。",
+    "artBrief": "农人倚着工具观察结有七枚圆果的藤蔓，夕阳安静。",
+    "image": "cards/webp/pentacles-07.webp"
+  },
+  {
+    "id": "pentacles-08",
+    "group": "pentacles",
+    "index": 8,
+    "nameZh": "星币八",
+    "nameEn": "Eight of Pentacles",
+    "keywords": [
+      "技能",
+      "重复",
+      "专注"
+    ],
+    "reflection": "哪项能力只能通过重复而不是理解获得？",
+    "action": "完成一次有反馈的刻意练习。",
+    "artBrief": "工匠专注雕刻第八枚圆形花牌，工作台整洁明亮。",
+    "image": "cards/webp/pentacles-08.webp"
+  },
+  {
+    "id": "pentacles-09",
+    "group": "pentacles",
+    "index": 9,
+    "nameZh": "星币九",
+    "nameEn": "Nine of Pentacles",
+    "keywords": [
+      "自主",
+      "享受",
+      "成果"
+    ],
+    "reflection": "哪些成果让我更信任自己的能力？",
+    "action": "独立完成并欣赏一件小事。",
+    "artBrief": "人物在成熟葡萄园与九枚圆果之间散步，猎鹰停在手套上。",
+    "image": "cards/webp/pentacles-09.webp"
+  },
+  {
+    "id": "pentacles-10",
+    "group": "pentacles",
+    "index": 10,
+    "nameZh": "星币十",
+    "nameEn": "Ten of Pentacles",
+    "keywords": [
+      "传承",
+      "稳定",
+      "长期支持"
+    ],
+    "reflection": "我正在建立什么可以长期支持自己和他人的基础？",
+    "action": "为一项长期资源补充记录或备份。",
+    "artBrief": "多代人与动物在拱门庭院共享日常，十枚圆果编入家族树。",
+    "image": "cards/webp/pentacles-10.webp"
+  },
+  {
+    "id": "pentacles-11",
+    "group": "pentacles",
+    "index": 11,
+    "nameZh": "星币侍从",
+    "nameEn": "Page of Pentacles",
+    "keywords": [
+      "学习",
+      "投入",
+      "现实"
+    ],
+    "reflection": "我愿意为哪项能力持续投入？",
+    "action": "预约下一次学习或练习时间。",
+    "artBrief": "田野学徒认真观察手中的圆形种子牌，远处新耕土地。",
+    "image": "cards/webp/pentacles-11.webp"
+  },
+  {
+    "id": "pentacles-12",
+    "group": "pentacles",
+    "index": 12,
+    "nameZh": "星币骑士",
+    "nameEn": "Knight of Pentacles",
+    "keywords": [
+      "稳定",
+      "耐心",
+      "可靠"
+    ],
+    "reflection": "慢一点怎样反而让我走得更稳？",
+    "action": "按既定节奏完成下一步，不额外加码。",
+    "artBrief": "骑手让黑马缓步经过犁田，手持发芽圆章，姿态沉稳。",
+    "image": "cards/webp/pentacles-12.webp"
+  },
+  {
+    "id": "pentacles-13",
+    "group": "pentacles",
+    "index": 13,
+    "nameZh": "星币皇后",
+    "nameEn": "Queen of Pentacles",
+    "keywords": [
+      "照料",
+      "实用",
+      "丰盛"
+    ],
+    "reflection": "我如何用现实方式照顾自己和环境？",
+    "action": "整理一处空间或准备一顿简单食物。",
+    "artBrief": "守护者坐在果园座椅，圆章、兔子与玫瑰环绕。",
+    "image": "cards/webp/pentacles-13.webp"
+  },
+  {
+    "id": "pentacles-14",
+    "group": "pentacles",
+    "index": 14,
+    "nameZh": "星币国王",
+    "nameEn": "King of Pentacles",
+    "keywords": [
+      "经营",
+      "稳定",
+      "责任"
+    ],
+    "reflection": "怎样让资源服务于价值，而不是反过来支配我？",
+    "action": "检查一项支出或时间投入是否符合价值。",
+    "artBrief": "成熟引路人坐在藤蔓花园，圆章在手，远处城堡象征长期建设。",
+    "image": "cards/webp/pentacles-14.webp"
+  }
+]

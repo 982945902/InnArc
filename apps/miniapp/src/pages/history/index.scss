@@ -1,0 +1,28 @@
+@use "../shared";
+
+.history-list { margin-top: 18px; }
+.history-card {
+  margin-bottom: 12px;
+  padding: 17px;
+  border: 1px solid rgba(36, 64, 57, .14);
+  border-radius: 17px;
+  background: rgba(255, 252, 245, .94);
+  box-shadow: 0 8px 20px rgba(54, 54, 37, .05);
+}
+.history-date, .history-question, .history-summary, .detail-title, .detail-copy,
+.history-note, .history-generation { display: block; }
+.history-date { color: #9a8665; font-size: 9px; }
+.history-question { margin-top: 7px; color: #17382f; font-size: 15px; font-weight: 600; line-height: 1.6; }
+.history-cards { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 9px; }
+.history-cards text { padding: 3px 7px; border-radius: 9px; background: #e8efe9; color: #486158; font-size: 9px; }
+.history-summary { margin-top: 11px; color: #536159; font-size: 11px; line-height: 1.75; }
+.history-detail { margin-top: 13px; padding-top: 13px; border-top: 1px solid rgba(36, 64, 57, .12); }
+.history-detail view + view { margin-top: 12px; }
+.detail-title { color: #8e6753; font-size: 11px; font-weight: 600; }
+.detail-copy { margin-top: 5px; color: #58665e; font-size: 10px; line-height: 1.7; }
+.history-note { margin-top: 13px; padding: 10px; border-radius: 9px; background: #f1e9dc; color: #765f4e; font-size: 10px; line-height: 1.7; }
+.history-generation { margin-top: 10px; color: #92978f; font-size: 8px; }
+.history-actions { display: grid; grid-template-columns: 1fr 72px; gap: 7px; margin-top: 13px; }
+.history-actions button { height: 36px; margin: 0; border-radius: 18px; background: #edf0e9; color: #27483e; font-size: 10px; line-height: 36px; }
+.history-actions button.delete { background: transparent; color: #955951; }
+.clear-button { margin-top: 18px; }

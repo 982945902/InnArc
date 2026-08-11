@@ -1,0 +1,2295 @@
+{
+  "schemaVersion": 1,
+  "deckVersion": "2026-08-07.rws-mucha.v2",
+  "license": "Original artwork generated for Heart Mirror; project-owned asset set.",
+  "productionPublicRoot": "cards/webp",
+  "cards": [
+    {
+      "id": "major-00",
+      "group": "major",
+      "index": 0,
+      "nameZh": "愚者",
+      "nameEn": "The Fool",
+      "publicPath": "cards/webp/major-00.webp",
+      "source": {
+        "path": "assets/cards/source/major-00.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3835014,
+        "sha256": "d169dea5a7c1b774d908b5fb60d279d7ac44ccd9a6f5e608bdf8bf492d96c3eb"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-00.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 196254,
+        "sha256": "c6ac8627f380be207dd4a1f1b6783d9749478e8d7cb21404138b3b4067a7b1e4"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-00.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 20312,
+        "sha256": "fff185a3144dad57ce22a7656f48d44bf38da3ad4dd772806f9b8a89d5e718ef"
+      }
+    },
+    {
+      "id": "major-01",
+      "group": "major",
+      "index": 1,
+      "nameZh": "魔术师",
+      "nameEn": "The Magician",
+      "publicPath": "cards/webp/major-01.webp",
+      "source": {
+        "path": "assets/cards/source/major-01.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3663272,
+        "sha256": "610a950c2acd0180ea8512926331fb3f5c329c98039b579db8029d70e01347ac"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-01.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 177928,
+        "sha256": "2e14d5d6b74ebdd93ef9b287d9ea0709ca4892d9f5352cb9db977d16260cffe4"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-01.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 17974,
+        "sha256": "bf0d622fcd05478f1262e1483b44d59f6c785365d016cf791ac60f04d9b2836b"
+      }
+    },
+    {
+      "id": "major-02",
+      "group": "major",
+      "index": 2,
+      "nameZh": "女祭司",
+      "nameEn": "The High Priestess",
+      "publicPath": "cards/webp/major-02.webp",
+      "source": {
+        "path": "assets/cards/source/major-02.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3472217,
+        "sha256": "4ab88fad77ca8da3fe24a0e05df7fed4a7f6e8e858df9e5a76faf9efd69dd4a6"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-02.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 157360,
+        "sha256": "e4099eb24520ccc9ffb436a9d266b89d6017135d1f51118c746e99a177f218b2"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-02.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16788,
+        "sha256": "344a9b39bbef9f09d9fa3949317126ae26f507e083ae979ed1c6952ca77ea98b"
+      }
+    },
+    {
+      "id": "major-03",
+      "group": "major",
+      "index": 3,
+      "nameZh": "皇后",
+      "nameEn": "The Empress",
+      "publicPath": "cards/webp/major-03.webp",
+      "source": {
+        "path": "assets/cards/source/major-03.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3651173,
+        "sha256": "356ee9aa100436ad72a31ddaaeaa6c2b6f24cbbbc9ff3f98d8727b496ce0f4d9"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-03.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 179434,
+        "sha256": "adf19ffc784884ce69ef3eeac11d803346b8c1ccbe59b29cba56075e86c5bf52"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-03.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 19520,
+        "sha256": "6bcdcda26ccff0b063dcb203393a5ef34502ca2b09885ed31468ff8a12125b53"
+      }
+    },
+    {
+      "id": "major-04",
+      "group": "major",
+      "index": 4,
+      "nameZh": "皇帝",
+      "nameEn": "The Emperor",
+      "publicPath": "cards/webp/major-04.webp",
+      "source": {
+        "path": "assets/cards/source/major-04.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3557549,
+        "sha256": "6d24c4e8f34452450c5b44c0f9720e6d311faa64e01d2775db4e86cca2a2fe3d"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-04.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 156398,
+        "sha256": "64c30f8ae44e61eba6df756a1a8d79f1dc7ad71d0cb8292b3c16022115a05194"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-04.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 15356,
+        "sha256": "c8329371f40bc89593dbcec420daf6bcac7eb258631554fa6b3ad078480c44f7"
+      }
+    },
+    {
+      "id": "major-05",
+      "group": "major",
+      "index": 5,
+      "nameZh": "教皇",
+      "nameEn": "The Hierophant",
+      "publicPath": "cards/webp/major-05.webp",
+      "source": {
+        "path": "assets/cards/source/major-05.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3573970,
+        "sha256": "ec299b00dd60998e4ad547a0190add2362caf9dd1a6f5e8bba25371f92db23cd"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-05.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 157574,
+        "sha256": "b1cd210d28aed08d29dbf1fc9004e248281d44efe351a4b89fecba16fc486552"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-05.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 15108,
+        "sha256": "5ae87a9af4248665decc46efdf6ca58bdd85cff4ae97d08308d225bf113bd6d3"
+      }
+    },
+    {
+      "id": "major-06",
+      "group": "major",
+      "index": 6,
+      "nameZh": "恋人",
+      "nameEn": "The Lovers",
+      "publicPath": "cards/webp/major-06.webp",
+      "source": {
+        "path": "assets/cards/source/major-06.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3629212,
+        "sha256": "c8c9d63fec6f5eeeca938072bd427a6d8c8e163a54f9ed4d30177835d434f874"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-06.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 172450,
+        "sha256": "8575f7bf1b3b75862d9747953399bb879e3e3e43fa4678f2c11d98229282685b"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-06.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 18128,
+        "sha256": "692d83e790f5e893fddb6a59f3e734d88c3b6a537cae6efb2c6d3c1ef7fb9cad"
+      }
+    },
+    {
+      "id": "major-07",
+      "group": "major",
+      "index": 7,
+      "nameZh": "战车",
+      "nameEn": "The Chariot",
+      "publicPath": "cards/webp/major-07.webp",
+      "source": {
+        "path": "assets/cards/source/major-07.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3629977,
+        "sha256": "fde683f55abfdac60deaac0dd46f15eed2e660eb45be50e7c56e79e0934d1cf8"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-07.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 180970,
+        "sha256": "587ababea9f3d077e830bef226452a5b89b733ff40052c9c7f653e71a4f3fa0b"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-07.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 20076,
+        "sha256": "a70a489f6822bd569d61314ecf0fb4ed47d3914e25f0dde64a279af3a9aa5163"
+      }
+    },
+    {
+      "id": "major-08",
+      "group": "major",
+      "index": 8,
+      "nameZh": "力量",
+      "nameEn": "Strength",
+      "publicPath": "cards/webp/major-08.webp",
+      "source": {
+        "path": "assets/cards/source/major-08.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3708073,
+        "sha256": "f0dda4727a5315c8cf018bb4afae3d1f1f96bae27db054cca65fa5c0365e0a39"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-08.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 180234,
+        "sha256": "ecd61ecf4f93cfd0498ba325816055069dc06407f9b5835ec67e76d3ba6f102c"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-08.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 18546,
+        "sha256": "717ae6beedbad46df8aae56f36223dd2512b17a9ba7248d28f5227a3fe565420"
+      }
+    },
+    {
+      "id": "major-09",
+      "group": "major",
+      "index": 9,
+      "nameZh": "隐士",
+      "nameEn": "The Hermit",
+      "publicPath": "cards/webp/major-09.webp",
+      "source": {
+        "path": "assets/cards/source/major-09.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3484524,
+        "sha256": "6a36aff1cebadda21bf9d73abc0d901663704f2aca055e6b228635f97620e3e3"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-09.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 147282,
+        "sha256": "857ee2b4a4230c24728fe5b6612fc1dc4399ab461646eee0841ccea449e9c371"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-09.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 15968,
+        "sha256": "c057118b1c83eb8fc1e7af33c135381ebbd62e83ff1450fdd593b4e85e950d5d"
+      }
+    },
+    {
+      "id": "major-10",
+      "group": "major",
+      "index": 10,
+      "nameZh": "命运之轮",
+      "nameEn": "Wheel of Fortune",
+      "publicPath": "cards/webp/major-10.webp",
+      "source": {
+        "path": "assets/cards/source/major-10.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3949619,
+        "sha256": "3dae01d90af2b128e0fa36fc729c2c2970ff88b2e9d0a4401828c5580dad1b3a"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-10.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 208354,
+        "sha256": "338ce4e4a3f56884295babb6112fcc8d28bba8949743e41a6b14142de00200ff"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-10.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 21438,
+        "sha256": "d530416abeb72a03d050b95b8f0efe4e9775433a01fad7131862319bcf377588"
+      }
+    },
+    {
+      "id": "major-11",
+      "group": "major",
+      "index": 11,
+      "nameZh": "正义",
+      "nameEn": "Justice",
+      "publicPath": "cards/webp/major-11.webp",
+      "source": {
+        "path": "assets/cards/source/major-11.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3533352,
+        "sha256": "f86cb8dbef5340d6b1f809a7a4dba20dfe9079a9c807da53b45b784f365c64d9"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-11.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 160828,
+        "sha256": "764e9f8859df21b56251af3616e25524c77f788a0374fa910c34bf831b877493"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-11.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16026,
+        "sha256": "ee854197039abdc5796e291981a5e676ee5bf899f27153fa366b1cae9db41195"
+      }
+    },
+    {
+      "id": "major-12",
+      "group": "major",
+      "index": 12,
+      "nameZh": "倒吊人",
+      "nameEn": "The Hanged Man",
+      "publicPath": "cards/webp/major-12.webp",
+      "source": {
+        "path": "assets/cards/source/major-12.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3689146,
+        "sha256": "d1be23bd9ec2b9768cc500fb9cfb0ee6f0a4b3961a1c589dc0be488a83c3472b"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-12.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 181048,
+        "sha256": "414517a286c1e71a3bbe7d8d25827218bda3c50348315f2f148466f7e15a26af"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-12.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 19366,
+        "sha256": "0e5c5872201ddddac929bf6d8a97fa45bea8ef41d8cff2148678797cd1c6ffdd"
+      }
+    },
+    {
+      "id": "major-13",
+      "group": "major",
+      "index": 13,
+      "nameZh": "死神",
+      "nameEn": "Death",
+      "publicPath": "cards/webp/major-13.webp",
+      "source": {
+        "path": "assets/cards/source/major-13.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3795163,
+        "sha256": "8c7abcbe1ce953acd1c0be9f9191934d679f01f43d37ef118491853d721b9777"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-13.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 196992,
+        "sha256": "4a87fa33b735d7122710e90d86c8c76dd6be7edb3e739140559e11a72418062b"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-13.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 19642,
+        "sha256": "fe739be1672a2cccafc9eeb6c2e6dd42e820a7f0c06501841ecee722f932a36a"
+      }
+    },
+    {
+      "id": "major-14",
+      "group": "major",
+      "index": 14,
+      "nameZh": "节制",
+      "nameEn": "Temperance",
+      "publicPath": "cards/webp/major-14.webp",
+      "source": {
+        "path": "assets/cards/source/major-14.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3610745,
+        "sha256": "1c3ec9751a49a77b25e232b95e845a6c397b2374fb204eddafd7fda07166c636"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-14.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 168194,
+        "sha256": "dac1dba61ba94988fa5e07a175427767114db0d883c9036b4723f6817d07d69f"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-14.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 17944,
+        "sha256": "deff6bfb78823666f892d07594741847911d221d2db3be3741d8d42bc7c7da63"
+      }
+    },
+    {
+      "id": "major-15",
+      "group": "major",
+      "index": 15,
+      "nameZh": "恶魔",
+      "nameEn": "The Devil",
+      "publicPath": "cards/webp/major-15.webp",
+      "source": {
+        "path": "assets/cards/source/major-15.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3468161,
+        "sha256": "fbff3cea70d0486460841fe22eca5d1929f9405df7b72da018b73b29bc888e87"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-15.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 157180,
+        "sha256": "1f61e41cbd417d26e70cb383b0e72b2288e1bec07ca0a6cb9817153a61892406"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-15.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16058,
+        "sha256": "7a2c32aa2bd57efe3156c606cebe7977557fa00bb8802cd9034860f3c5534425"
+      }
+    },
+    {
+      "id": "major-16",
+      "group": "major",
+      "index": 16,
+      "nameZh": "高塔",
+      "nameEn": "The Tower",
+      "publicPath": "cards/webp/major-16.webp",
+      "source": {
+        "path": "assets/cards/source/major-16.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3434439,
+        "sha256": "34d6912e24a087e99e49bf77db83f34baad62013faafd53c089f2049533f2852"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-16.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 137422,
+        "sha256": "a9d7da612d7186afd5e5fd0f40e60bf776317ee5e011b1aed5a8970afff5226d"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-16.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 15246,
+        "sha256": "6c39d1761cebe7ee4f65abe30ab9ca805120451c99891acf73a41c8f62a0d0d4"
+      }
+    },
+    {
+      "id": "major-17",
+      "group": "major",
+      "index": 17,
+      "nameZh": "星星",
+      "nameEn": "The Star",
+      "publicPath": "cards/webp/major-17.webp",
+      "source": {
+        "path": "assets/cards/source/major-17.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3529482,
+        "sha256": "415b26709428a00976a223843baf87750a2b78de3cd879e141b7bad3ab7385ed"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-17.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 161918,
+        "sha256": "105506f3d9c50a4e5adfffe4bbeac1a0d50736598999a214f3d207afc3b18d65"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-17.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16314,
+        "sha256": "f16f102c98f39f2acf02d3a9ffd4aa0efefec676a85fd170890310e0d197cf23"
+      }
+    },
+    {
+      "id": "major-18",
+      "group": "major",
+      "index": 18,
+      "nameZh": "月亮",
+      "nameEn": "The Moon",
+      "publicPath": "cards/webp/major-18.webp",
+      "source": {
+        "path": "assets/cards/source/major-18.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3570044,
+        "sha256": "6f2903bcd78d430b86bc51c592873f664771cc026692e45642fc32b17118feb7"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-18.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 158828,
+        "sha256": "0abf8826dc8e81dc50d7ca4eb23fc4a481894f631b22b3975fe44a4c25dab73f"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-18.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16412,
+        "sha256": "ae61334c193a23c35bb7207734a7d886027e25a36c3336bf4384f5154f47ffdf"
+      }
+    },
+    {
+      "id": "major-19",
+      "group": "major",
+      "index": 19,
+      "nameZh": "太阳",
+      "nameEn": "The Sun",
+      "publicPath": "cards/webp/major-19.webp",
+      "source": {
+        "path": "assets/cards/source/major-19.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3701595,
+        "sha256": "6d9f62de509086f4d8d5f1879d297fd153848c8771263dcad723fc5b266fb524"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-19.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 174804,
+        "sha256": "f6cf9c8f92d6b48de2426fa4c9df0d5b5262811f78fc7ccdf7273bdff7f8d1c2"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-19.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 18374,
+        "sha256": "1488e14815736c605cb0211ca042c1266ec317c0515131d74ff8e97e8077005a"
+      }
+    },
+    {
+      "id": "major-20",
+      "group": "major",
+      "index": 20,
+      "nameZh": "审判",
+      "nameEn": "Judgement",
+      "publicPath": "cards/webp/major-20.webp",
+      "source": {
+        "path": "assets/cards/source/major-20.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3774890,
+        "sha256": "d1102fe035ddab804ec5d03ad6893388f5c6ba5fa57322e3c71b9b1f0f7d9c21"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-20.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 184842,
+        "sha256": "b269a0d1116b139274f5739f50677fc56cf5e567252cf929cb60cb1c4d0b7afa"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-20.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 18916,
+        "sha256": "4f55aacbd249a20882ef74992f470e73f41f20afd6060083cce76ec930671c96"
+      }
+    },
+    {
+      "id": "major-21",
+      "group": "major",
+      "index": 21,
+      "nameZh": "世界",
+      "nameEn": "The World",
+      "publicPath": "cards/webp/major-21.webp",
+      "source": {
+        "path": "assets/cards/source/major-21.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3879314,
+        "sha256": "f03d95fc126abf4f4941150a044820ad0cfc92d78e9aa6ba4276695e69468d37"
+      },
+      "production": {
+        "path": "assets/cards/webp/major-21.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 188944,
+        "sha256": "22fae247d1bf2296e19485da51b95c413c2387450eb4d61f8d61268d37dce933"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/major-21.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 18930,
+        "sha256": "d6ab6947cabd7d51596ce084451ec07b6ffcd558f2fec3347826ca3415215110"
+      }
+    },
+    {
+      "id": "wands-01",
+      "group": "wands",
+      "index": 1,
+      "nameZh": "权杖王牌",
+      "nameEn": "Ace of Wands",
+      "publicPath": "cards/webp/wands-01.webp",
+      "source": {
+        "path": "assets/cards/source/wands-01.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3837782,
+        "sha256": "479d8ee561082ea18607812258e093727f56f61e108a7e95472aaf4de176b270"
+      },
+      "production": {
+        "path": "assets/cards/webp/wands-01.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 182668,
+        "sha256": "2c6a1201e72be47469f575f7fc3f7b6eb8c6eb32c28fdb3256dd1cfdb0268b53"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/wands-01.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 17148,
+        "sha256": "30404b6e5ee1804baeb223b6e722dbe865149dc1f764137fed7ef2ea9f4099dc"
+      }
+    },
+    {
+      "id": "wands-02",
+      "group": "wands",
+      "index": 2,
+      "nameZh": "权杖二",
+      "nameEn": "Two of Wands",
+      "publicPath": "cards/webp/wands-02.webp",
+      "source": {
+        "path": "assets/cards/source/wands-02.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3699323,
+        "sha256": "4d51c03b6004156cd00cd038568d49a883e40a6cd341641cf11fb2700e42f444"
+      },
+      "production": {
+        "path": "assets/cards/webp/wands-02.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 184984,
+        "sha256": "63a1bf635c8070426f71719c4b9885b6e0bd25ee06383eec294edee6208b3973"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/wands-02.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 17628,
+        "sha256": "1315272a92e4bb254968cc4d01331dae78fd6d70531be05343199108394424c0"
+      }
+    },
+    {
+      "id": "wands-03",
+      "group": "wands",
+      "index": 3,
+      "nameZh": "权杖三",
+      "nameEn": "Three of Wands",
+      "publicPath": "cards/webp/wands-03.webp",
+      "source": {
+        "path": "assets/cards/source/wands-03.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3629265,
+        "sha256": "7dcf4710a4444b8f680136a6776dac31954a4dfcddeb024e6413d7d57e215746"
+      },
+      "production": {
+        "path": "assets/cards/webp/wands-03.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 173692,
+        "sha256": "becb80ad8714f2af94938bd9eadbe5ec6b02f53ed2aab69df5876356beaff6ab"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/wands-03.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16794,
+        "sha256": "3815f35acad43183e76bd486ef7ca7a1adc84d2a2ca8c7486831a254c5e5721b"
+      }
+    },
+    {
+      "id": "wands-04",
+      "group": "wands",
+      "index": 4,
+      "nameZh": "权杖四",
+      "nameEn": "Four of Wands",
+      "publicPath": "cards/webp/wands-04.webp",
+      "source": {
+        "path": "assets/cards/source/wands-04.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3620769,
+        "sha256": "f1dbd0d20a3b5af1b8ee2ea99a65a30d9388a757189b6ebd8cef88c47a592f7d"
+      },
+      "production": {
+        "path": "assets/cards/webp/wands-04.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 190278,
+        "sha256": "3d7cfb5bd92164d8a27a536f7d6f0673c7581edf036c3e9359dab465f3792b97"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/wands-04.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 20208,
+        "sha256": "a09cff8afda117c2981441efb90e3981a9bad68f708906891a14093a66695264"
+      }
+    },
+    {
+      "id": "wands-05",
+      "group": "wands",
+      "index": 5,
+      "nameZh": "权杖五",
+      "nameEn": "Five of Wands",
+      "publicPath": "cards/webp/wands-05.webp",
+      "source": {
+        "path": "assets/cards/source/wands-05.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3659351,
+        "sha256": "09427de1b6cbd4d07f76e8e0431576fd184cb2c139c778e780b088f6cf575376"
+      },
+      "production": {
+        "path": "assets/cards/webp/wands-05.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 177018,
+        "sha256": "f1f09ae174aed56dcff211d7807775535cfc54bbf60632129ba166b43ea74dfa"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/wands-05.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 18146,
+        "sha256": "a4e321bc7402c5a9e5a8a9230782d9310f7a826780720053e9c68a66a8867c07"
+      }
+    },
+    {
+      "id": "wands-06",
+      "group": "wands",
+      "index": 6,
+      "nameZh": "权杖六",
+      "nameEn": "Six of Wands",
+      "publicPath": "cards/webp/wands-06.webp",
+      "source": {
+        "path": "assets/cards/source/wands-06.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3583740,
+        "sha256": "ce5e743ef69f2b064758f10c07cc7cf8bcafd282d83abdec57be1248505758cf"
+      },
+      "production": {
+        "path": "assets/cards/webp/wands-06.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 175900,
+        "sha256": "1d7edeb0afdff40e32fefcdeb8bc097e3e0fabb3aeb80de3b94f857ac3569ee9"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/wands-06.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 18816,
+        "sha256": "8bce051ee2c836d0864641d212b88f50247103c42c13b2786a721babbe9f4a7f"
+      }
+    },
+    {
+      "id": "wands-07",
+      "group": "wands",
+      "index": 7,
+      "nameZh": "权杖七",
+      "nameEn": "Seven of Wands",
+      "publicPath": "cards/webp/wands-07.webp",
+      "source": {
+        "path": "assets/cards/source/wands-07.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3670832,
+        "sha256": "c9c4dad75cf6b11aa9e9c0ce9b1f69cc2a62e56d9f144ca230ebec4ee90a27ab"
+      },
+      "production": {
+        "path": "assets/cards/webp/wands-07.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 171524,
+        "sha256": "97264acb0efa2df130a924bf5fb2be3f7945377482e63e77f87a7a5bff02750e"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/wands-07.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16526,
+        "sha256": "68529d583f24bc06638c16b8c6baf9c2cff677e8e099d841dbb652bc0c29cb37"
+      }
+    },
+    {
+      "id": "wands-08",
+      "group": "wands",
+      "index": 8,
+      "nameZh": "权杖八",
+      "nameEn": "Eight of Wands",
+      "publicPath": "cards/webp/wands-08.webp",
+      "source": {
+        "path": "assets/cards/source/wands-08.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3387309,
+        "sha256": "50301a42658307687ac40ba78a4b2ea7e75c703178c4d4d92cd6e625055d5576"
+      },
+      "production": {
+        "path": "assets/cards/webp/wands-08.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 146580,
+        "sha256": "41d1ddb5a851972d8979725da3bd6e36380f065aa0d1c5eac43f66f8803727b6"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/wands-08.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16968,
+        "sha256": "687a681d624c7afcf8e194e6fd13138a56de43414a03a9c30cc60c5662374da9"
+      }
+    },
+    {
+      "id": "wands-09",
+      "group": "wands",
+      "index": 9,
+      "nameZh": "权杖九",
+      "nameEn": "Nine of Wands",
+      "publicPath": "cards/webp/wands-09.webp",
+      "source": {
+        "path": "assets/cards/source/wands-09.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3430101,
+        "sha256": "874b43be56a19ffbb6317505ab5ab09901db57693ea32b1fab251834833105f4"
+      },
+      "production": {
+        "path": "assets/cards/webp/wands-09.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 162744,
+        "sha256": "252075f9d6b1135bd858ef6e0ceee3bfc0dd9636b9f8f573230153f7875a8e5c"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/wands-09.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 17188,
+        "sha256": "43a90682d1f86a42f80d036d7de40e7af20942737ba1e2791af85bdf20a65794"
+      }
+    },
+    {
+      "id": "wands-10",
+      "group": "wands",
+      "index": 10,
+      "nameZh": "权杖十",
+      "nameEn": "Ten of Wands",
+      "publicPath": "cards/webp/wands-10.webp",
+      "source": {
+        "path": "assets/cards/source/wands-10.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3508580,
+        "sha256": "caca8c9551c9cbc9906fff4be551826516e29a7594e07f4bba8df41d7e9e0d75"
+      },
+      "production": {
+        "path": "assets/cards/webp/wands-10.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 175710,
+        "sha256": "cd54a9bbc67ef119806b96a557675d6faa5328a598ff13648da608327b6af37a"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/wands-10.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 18284,
+        "sha256": "dfcb29a2bdb8530a2414671f54d6a5485e34e59654ce39ff2c0541e4a482b724"
+      }
+    },
+    {
+      "id": "wands-11",
+      "group": "wands",
+      "index": 11,
+      "nameZh": "权杖侍从",
+      "nameEn": "Page of Wands",
+      "publicPath": "cards/webp/wands-11.webp",
+      "source": {
+        "path": "assets/cards/source/wands-11.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3370792,
+        "sha256": "cdecff8daf0a5e58612adde23f7f160811a41da072a6fa62a167301af2063ab3"
+      },
+      "production": {
+        "path": "assets/cards/webp/wands-11.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 146566,
+        "sha256": "7f24f0ce1dd5e6822c660503aba767c6b73b0626a16ccb8a42f81ca14105bf49"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/wands-11.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16084,
+        "sha256": "19978067b756f0cad0991058f435f825c7d4f3e3801d1b0e893cfb325b863db7"
+      }
+    },
+    {
+      "id": "wands-12",
+      "group": "wands",
+      "index": 12,
+      "nameZh": "权杖骑士",
+      "nameEn": "Knight of Wands",
+      "publicPath": "cards/webp/wands-12.webp",
+      "source": {
+        "path": "assets/cards/source/wands-12.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3596376,
+        "sha256": "86dc898dbed988f81c5fa56b552b9e6611c9c3fb32d8148cf47ac2cb77c04a97"
+      },
+      "production": {
+        "path": "assets/cards/webp/wands-12.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 185828,
+        "sha256": "65b7a4f2b6e5a7c6354244f7312800059d78816908f9d549cd5758e51b9c1992"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/wands-12.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 20350,
+        "sha256": "1e96238b980448fb8158635ca1f9f7178eca26459195d305a666bbcb0c5f0c61"
+      }
+    },
+    {
+      "id": "wands-13",
+      "group": "wands",
+      "index": 13,
+      "nameZh": "权杖皇后",
+      "nameEn": "Queen of Wands",
+      "publicPath": "cards/webp/wands-13.webp",
+      "source": {
+        "path": "assets/cards/source/wands-13.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3528627,
+        "sha256": "65bb5c478ff26a21f933ee0e7157fd03a439a3a28438f4e3a3ea1b329222d5aa"
+      },
+      "production": {
+        "path": "assets/cards/webp/wands-13.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 192018,
+        "sha256": "e7be78a9a5ac25a5f6e08e2f2f7a412a120126adf93ff72ef886f5497382edf4"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/wands-13.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 20744,
+        "sha256": "bc7613612f2ab90e9e6daed3960d88eed8a4ca0a34abc503a4d98e738dbbb7b0"
+      }
+    },
+    {
+      "id": "wands-14",
+      "group": "wands",
+      "index": 14,
+      "nameZh": "权杖国王",
+      "nameEn": "King of Wands",
+      "publicPath": "cards/webp/wands-14.webp",
+      "source": {
+        "path": "assets/cards/source/wands-14.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3865115,
+        "sha256": "82f8f9e96931c4de0e15d17eedd6f11e29e6a8db234743bcaa7c0d06930002cc"
+      },
+      "production": {
+        "path": "assets/cards/webp/wands-14.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 227272,
+        "sha256": "45f7f65ffe8841e1b83ff876ee86aecfb80a6a4606b54a8e74565480731ebb49"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/wands-14.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 21858,
+        "sha256": "ab660611684f982449040f470df76f7af3febe109b7591edac22258142970d8f"
+      }
+    },
+    {
+      "id": "cups-01",
+      "group": "cups",
+      "index": 1,
+      "nameZh": "圣杯王牌",
+      "nameEn": "Ace of Cups",
+      "publicPath": "cards/webp/cups-01.webp",
+      "source": {
+        "path": "assets/cards/source/cups-01.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3703784,
+        "sha256": "cb6d777f503bb650f4fd5debed226642431551244ab37bebfbd6f2c47e69fa5d"
+      },
+      "production": {
+        "path": "assets/cards/webp/cups-01.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 180328,
+        "sha256": "9d631c6a310b1e7cf976d2bc43dd559ee1ca0701b6b8b1d632abcfe76cd19585"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/cups-01.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16918,
+        "sha256": "511e401dc57aa567c8d98a4bf0a450e7bb666d4b8ce8fd775a949ad0c7702341"
+      }
+    },
+    {
+      "id": "cups-02",
+      "group": "cups",
+      "index": 2,
+      "nameZh": "圣杯二",
+      "nameEn": "Two of Cups",
+      "publicPath": "cards/webp/cups-02.webp",
+      "source": {
+        "path": "assets/cards/source/cups-02.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3616181,
+        "sha256": "1d6c484de3d630482a4d6a414a64925a80208829fb95fab31901fd3ac602ffa9"
+      },
+      "production": {
+        "path": "assets/cards/webp/cups-02.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 169490,
+        "sha256": "c028a9496caa108e74453fc9089c16b4ff7cc31b34a915af3e4b352d97439083"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/cups-02.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 15924,
+        "sha256": "5d9646eb6c8ed8e1ddaf0ccae85e3d6a179fd700b7378d34df12d5509684b293"
+      }
+    },
+    {
+      "id": "cups-03",
+      "group": "cups",
+      "index": 3,
+      "nameZh": "圣杯三",
+      "nameEn": "Three of Cups",
+      "publicPath": "cards/webp/cups-03.webp",
+      "source": {
+        "path": "assets/cards/source/cups-03.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3642510,
+        "sha256": "702409eb8f0ce0e859e18d43f28b387dee0512bdcce7d67753cd9868aacbe4e6"
+      },
+      "production": {
+        "path": "assets/cards/webp/cups-03.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 171512,
+        "sha256": "c4ebd40ad7801601dce8f8b6a1bbee173d807568a3fe1e695cf524a9bec9272c"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/cups-03.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16686,
+        "sha256": "d0cc6a0f62a5c98a7d0e7952d7b0a4f7a0b3b341d338df76cdbf617ea73df9d0"
+      }
+    },
+    {
+      "id": "cups-04",
+      "group": "cups",
+      "index": 4,
+      "nameZh": "圣杯四",
+      "nameEn": "Four of Cups",
+      "publicPath": "cards/webp/cups-04.webp",
+      "source": {
+        "path": "assets/cards/source/cups-04.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3608016,
+        "sha256": "38d561eafd10d5b3a3803d094dd02a16f8a9ca6d79b2d8f2d3db969fa9887366"
+      },
+      "production": {
+        "path": "assets/cards/webp/cups-04.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 177670,
+        "sha256": "f0c6b6524172988dfa7d5192a964707a644ba16e23597bd851de48212c19b281"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/cups-04.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16528,
+        "sha256": "9f55b647b21ed154ed660c4416902a29dc358840f39d6546d5ab41faccd3c9e0"
+      }
+    },
+    {
+      "id": "cups-05",
+      "group": "cups",
+      "index": 5,
+      "nameZh": "圣杯五",
+      "nameEn": "Five of Cups",
+      "publicPath": "cards/webp/cups-05.webp",
+      "source": {
+        "path": "assets/cards/source/cups-05.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3534628,
+        "sha256": "1d7377564713877dfdcee0537fbd17b901a2798f17c12d16661dcf961a0c94ee"
+      },
+      "production": {
+        "path": "assets/cards/webp/cups-05.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 160744,
+        "sha256": "49da8326e572cc99f477ebf807937d18226043039739e84f4ce9a33b9611baf4"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/cups-05.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 14568,
+        "sha256": "a289517e166ffe32c1f5fdeb48ebf6a9eb4dcf1985f244a085f849b9795cf534"
+      }
+    },
+    {
+      "id": "cups-06",
+      "group": "cups",
+      "index": 6,
+      "nameZh": "圣杯六",
+      "nameEn": "Six of Cups",
+      "publicPath": "cards/webp/cups-06.webp",
+      "source": {
+        "path": "assets/cards/source/cups-06.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3627005,
+        "sha256": "16bb4d5c44feba662a82165fe5e0db2378d89a93f5ca818b61c3a4e977add63e"
+      },
+      "production": {
+        "path": "assets/cards/webp/cups-06.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 159402,
+        "sha256": "78013bc2e3f4fe329c7f91d7525c5eac228ee616f15d99a02f9d01f70e96f70b"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/cups-06.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16162,
+        "sha256": "810e8df966cd1481c043d720d0df532d5c109412b1567dc1efc9e1c8c66be312"
+      }
+    },
+    {
+      "id": "cups-07",
+      "group": "cups",
+      "index": 7,
+      "nameZh": "圣杯七",
+      "nameEn": "Seven of Cups",
+      "publicPath": "cards/webp/cups-07.webp",
+      "source": {
+        "path": "assets/cards/source/cups-07.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3447617,
+        "sha256": "7b0bff99f0f9f2f1d7ceae1af026289c87f518b5fd8124ada5495822c927d7f2"
+      },
+      "production": {
+        "path": "assets/cards/webp/cups-07.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 141802,
+        "sha256": "e42c730e91883d18a0d55f7adfcc1f69c29effed05785fe05e4667542a34afbc"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/cups-07.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 14912,
+        "sha256": "1167e7ca04a891e2a063856aa8e54fe9a6fa08f7a9015ab127d5cab78d14e3ed"
+      }
+    },
+    {
+      "id": "cups-08",
+      "group": "cups",
+      "index": 8,
+      "nameZh": "圣杯八",
+      "nameEn": "Eight of Cups",
+      "publicPath": "cards/webp/cups-08.webp",
+      "source": {
+        "path": "assets/cards/source/cups-08.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3410045,
+        "sha256": "e41317d8676ec5475b3853c20c8401ac94b6efa37a3f7c59bb6fb0e87f10ee44"
+      },
+      "production": {
+        "path": "assets/cards/webp/cups-08.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 142680,
+        "sha256": "b28308f252b6a12a00166ca46fd012388185836f61fd5bb14b54ab6012ad6191"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/cups-08.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 13708,
+        "sha256": "6310f7d4703382423cd59c2b9d9693d6bd2d8cfb91eb193aa5230f77c6b3f278"
+      }
+    },
+    {
+      "id": "cups-09",
+      "group": "cups",
+      "index": 9,
+      "nameZh": "圣杯九",
+      "nameEn": "Nine of Cups",
+      "publicPath": "cards/webp/cups-09.webp",
+      "source": {
+        "path": "assets/cards/source/cups-09.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3273964,
+        "sha256": "80484148fc4633213f2e112c1b9a6412758dab01bb7122d60f95288030965fcd"
+      },
+      "production": {
+        "path": "assets/cards/webp/cups-09.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 149906,
+        "sha256": "9856261c4e31a4b94a19760decc343a4359091c76d1a173c62994578de520640"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/cups-09.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 14622,
+        "sha256": "8ebd2d857d1999df5455e44c28a34fe4e1bcaa6d1045e397d3c08e8dadff14d5"
+      }
+    },
+    {
+      "id": "cups-10",
+      "group": "cups",
+      "index": 10,
+      "nameZh": "圣杯十",
+      "nameEn": "Ten of Cups",
+      "publicPath": "cards/webp/cups-10.webp",
+      "source": {
+        "path": "assets/cards/source/cups-10.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3458679,
+        "sha256": "67d90c1366a17782934be8867bb1e98865893510978cb40dec3a2d30514cc68d"
+      },
+      "production": {
+        "path": "assets/cards/webp/cups-10.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 172592,
+        "sha256": "f9623f4ee264cb4ed59249874d04e2a6ec660b6b89800816bdebde3dad2e9191"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/cups-10.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16566,
+        "sha256": "9eeadefed275b93e48d4a21596f75e0f22c748a28439fe835deff9b2ba054ac4"
+      }
+    },
+    {
+      "id": "cups-11",
+      "group": "cups",
+      "index": 11,
+      "nameZh": "圣杯侍从",
+      "nameEn": "Page of Cups",
+      "publicPath": "cards/webp/cups-11.webp",
+      "source": {
+        "path": "assets/cards/source/cups-11.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3312716,
+        "sha256": "1e6d03a68706dcdbddd94b187b000fd13aa57fbbbff54695fb8c9a5937c82184"
+      },
+      "production": {
+        "path": "assets/cards/webp/cups-11.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 149944,
+        "sha256": "2257cb3fa53dcf32639b9583a92a12cb5094e32a83e706a85b35c1140beaf274"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/cups-11.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16136,
+        "sha256": "2be3d8375838b729266007a400c6e43d3fb6ad3daf4e3b731b25f34453c5a108"
+      }
+    },
+    {
+      "id": "cups-12",
+      "group": "cups",
+      "index": 12,
+      "nameZh": "圣杯骑士",
+      "nameEn": "Knight of Cups",
+      "publicPath": "cards/webp/cups-12.webp",
+      "source": {
+        "path": "assets/cards/source/cups-12.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3399094,
+        "sha256": "4a91489dc08bdbf2d58da81d79e556125e5c3d0e1506ad449fdfda2258e0ad5d"
+      },
+      "production": {
+        "path": "assets/cards/webp/cups-12.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 152520,
+        "sha256": "e9cfe9cdcf4a8f174b0318aef86042efecf74044579d85f1503722daff851a4d"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/cups-12.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 15332,
+        "sha256": "65e37477bf4c81ca479b13bb4987df36cc736cc41fdbff08b2370c1d240da8a8"
+      }
+    },
+    {
+      "id": "cups-13",
+      "group": "cups",
+      "index": 13,
+      "nameZh": "圣杯皇后",
+      "nameEn": "Queen of Cups",
+      "publicPath": "cards/webp/cups-13.webp",
+      "source": {
+        "path": "assets/cards/source/cups-13.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3459407,
+        "sha256": "efae164d34ec6941e4b4dd73dd1250ede1d613834016a80d8477150842bfc5aa"
+      },
+      "production": {
+        "path": "assets/cards/webp/cups-13.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 165146,
+        "sha256": "71f9678521d14d7d9ba5d953698a04e5d5b0b2462eeba9b113a537f7cb824321"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/cups-13.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 15832,
+        "sha256": "4e9b55df91087a8de16ac0fb3c81e88d28f1c257193f9f0eda82f9a805b1b41a"
+      }
+    },
+    {
+      "id": "cups-14",
+      "group": "cups",
+      "index": 14,
+      "nameZh": "圣杯国王",
+      "nameEn": "King of Cups",
+      "publicPath": "cards/webp/cups-14.webp",
+      "source": {
+        "path": "assets/cards/source/cups-14.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3398711,
+        "sha256": "a121b4eb468288755ced9bf851d2844136f5888adcb720421777f88657b2b870"
+      },
+      "production": {
+        "path": "assets/cards/webp/cups-14.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 161468,
+        "sha256": "2da34f0927ec36ff96d4988eecee389e9454d3c65508cb770ad46ddbdd71fa15"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/cups-14.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16364,
+        "sha256": "d2812961b0a30629f4ff70a6c1d417aab78c08e5ed54eb93fb9e2fa550cc08eb"
+      }
+    },
+    {
+      "id": "swords-01",
+      "group": "swords",
+      "index": 1,
+      "nameZh": "宝剑王牌",
+      "nameEn": "Ace of Swords",
+      "publicPath": "cards/webp/swords-01.webp",
+      "source": {
+        "path": "assets/cards/source/swords-01.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3628354,
+        "sha256": "c7ec9f158795732037c1ebdee5139ecaa32a19871ac8efb29651fab4cc86cb6c"
+      },
+      "production": {
+        "path": "assets/cards/webp/swords-01.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 160708,
+        "sha256": "b6017de82bb3cdc32e98a3e3fb2e18ef8a21a18baa4fed9010b295e8a4f720d2"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/swords-01.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 15142,
+        "sha256": "d4f097055f7175d03ef6d6733e9bbcd87c2716dc618056173767004c99aabfe8"
+      }
+    },
+    {
+      "id": "swords-02",
+      "group": "swords",
+      "index": 2,
+      "nameZh": "宝剑二",
+      "nameEn": "Two of Swords",
+      "publicPath": "cards/webp/swords-02.webp",
+      "source": {
+        "path": "assets/cards/source/swords-02.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3702703,
+        "sha256": "74d80c662c6e9184b3d9ac08d65655b3cc40ab5c6c2ab1197e62c34c69071b5e"
+      },
+      "production": {
+        "path": "assets/cards/webp/swords-02.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 170874,
+        "sha256": "28dc678fa1b9ced109a1216b47a386e7b7046033c0a79a05df1e009cafe1523f"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/swords-02.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 14480,
+        "sha256": "c881eba48a83c00ab108cba0e1205325cf54d13412c50d5acc2fbd47310e1954"
+      }
+    },
+    {
+      "id": "swords-03",
+      "group": "swords",
+      "index": 3,
+      "nameZh": "宝剑三",
+      "nameEn": "Three of Swords",
+      "publicPath": "cards/webp/swords-03.webp",
+      "source": {
+        "path": "assets/cards/source/swords-03.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3789279,
+        "sha256": "39967dba45c2b78e5a1c11e32910a7c1cd635b27ca681c3757d275baf7e4aa20"
+      },
+      "production": {
+        "path": "assets/cards/webp/swords-03.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 177432,
+        "sha256": "8d14e5278be361a9c109c58edd72208cc2cdb2c1c8e695d00907741e89268bef"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/swords-03.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 15260,
+        "sha256": "6bb6d178c0821484cd028c8b81b8005fcd92788319d839cbd100b260abd91af5"
+      }
+    },
+    {
+      "id": "swords-04",
+      "group": "swords",
+      "index": 4,
+      "nameZh": "宝剑四",
+      "nameEn": "Four of Swords",
+      "publicPath": "cards/webp/swords-04.webp",
+      "source": {
+        "path": "assets/cards/source/swords-04.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3603356,
+        "sha256": "775ffb42b33b98ad778e217cb1caedfb5961cc4c0059f1c60018167d1c521fc9"
+      },
+      "production": {
+        "path": "assets/cards/webp/swords-04.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 163536,
+        "sha256": "460d283a8021e30f068ab635772e36fdaa6352e3aa0fb8dbc6a5e49f08092ab9"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/swords-04.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 13896,
+        "sha256": "62cdaf5b3ad01f5c68cfcea5ccbb485ad4e595107e4fd46e227d98a79aef7084"
+      }
+    },
+    {
+      "id": "swords-05",
+      "group": "swords",
+      "index": 5,
+      "nameZh": "宝剑五",
+      "nameEn": "Five of Swords",
+      "publicPath": "cards/webp/swords-05.webp",
+      "source": {
+        "path": "assets/cards/source/swords-05.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3704879,
+        "sha256": "f2d3671485f79e98a34619fda71c8a9cf7cb32340d1d43430a516edc0ffc97d5"
+      },
+      "production": {
+        "path": "assets/cards/webp/swords-05.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 169318,
+        "sha256": "81731d9d30689819464ed1d091bc7f955dc9ee5f41e82c25e3963f4ce8938887"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/swords-05.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 15858,
+        "sha256": "27d6c6c49ba315b15cde2957bbd001d75f4be58a85b611684b41ca3dfd0edc12"
+      }
+    },
+    {
+      "id": "swords-06",
+      "group": "swords",
+      "index": 6,
+      "nameZh": "宝剑六",
+      "nameEn": "Six of Swords",
+      "publicPath": "cards/webp/swords-06.webp",
+      "source": {
+        "path": "assets/cards/source/swords-06.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3605657,
+        "sha256": "7f9ad95d8204da52e6d84dfa67693285ee61ee4205634a7e53e3b84a93749c6c"
+      },
+      "production": {
+        "path": "assets/cards/webp/swords-06.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 153950,
+        "sha256": "418184bcedb56fce40a7b092a31cdc2c416ff6ab401198208d3865cbf59740f1"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/swords-06.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 13874,
+        "sha256": "2ecb6a22b4faf80b9662283bc0ec09d4d2db9c20d21e508cacb1473a6bd2e99b"
+      }
+    },
+    {
+      "id": "swords-07",
+      "group": "swords",
+      "index": 7,
+      "nameZh": "宝剑七",
+      "nameEn": "Seven of Swords",
+      "publicPath": "cards/webp/swords-07.webp",
+      "source": {
+        "path": "assets/cards/source/swords-07.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3472414,
+        "sha256": "44005afb8a36af4e3e645d43ef6740cf8344904fb082e2d0633c76591dc23e51"
+      },
+      "production": {
+        "path": "assets/cards/webp/swords-07.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 141522,
+        "sha256": "3481ce9fddf3ccd51458ac767542bb2ec63d3fd97fbd34ce261f973650da0b67"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/swords-07.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 12534,
+        "sha256": "12535758447feed7e29e525fb6b9b5b168e93471e4e946a524594f381b2f69b4"
+      }
+    },
+    {
+      "id": "swords-08",
+      "group": "swords",
+      "index": 8,
+      "nameZh": "宝剑八",
+      "nameEn": "Eight of Swords",
+      "publicPath": "cards/webp/swords-08.webp",
+      "source": {
+        "path": "assets/cards/source/swords-08.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3620723,
+        "sha256": "57f2329d874d8e11e07bf8a11708db98e941f627dd3b848d07bf7f849159e9d0"
+      },
+      "production": {
+        "path": "assets/cards/webp/swords-08.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 162712,
+        "sha256": "dd017dd3b415425e2e5aac3692d81aea1460426d7200d438d4bd2c764eb63003"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/swords-08.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 14340,
+        "sha256": "86ea0ae564c3bf1923beac3b8de9877cdc8c6299e6e4afd936dac8486110f67a"
+      }
+    },
+    {
+      "id": "swords-09",
+      "group": "swords",
+      "index": 9,
+      "nameZh": "宝剑九",
+      "nameEn": "Nine of Swords",
+      "publicPath": "cards/webp/swords-09.webp",
+      "source": {
+        "path": "assets/cards/source/swords-09.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3544477,
+        "sha256": "9a799c46a016e9ddb73e686dc87eee4723d8d81f208dc2c1c8ea2687dfa56ecd"
+      },
+      "production": {
+        "path": "assets/cards/webp/swords-09.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 149824,
+        "sha256": "3dbc164d1c39ffb07c82e26331b1946012380d19b4e740276dbc224477519e27"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/swords-09.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 13196,
+        "sha256": "e59c23351168135c2e8804865e57b01719572c2a268dacd7b675a86307b21378"
+      }
+    },
+    {
+      "id": "swords-10",
+      "group": "swords",
+      "index": 10,
+      "nameZh": "宝剑十",
+      "nameEn": "Ten of Swords",
+      "publicPath": "cards/webp/swords-10.webp",
+      "source": {
+        "path": "assets/cards/source/swords-10.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3557082,
+        "sha256": "4fc522558b2b03576025e88f527510d746f79b69277d09269489623c1d830c5b"
+      },
+      "production": {
+        "path": "assets/cards/webp/swords-10.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 160534,
+        "sha256": "9059cd6032e0c072319ae00506f7c04f4d7cf76d63c23db85acf3efe339cbb44"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/swords-10.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 15308,
+        "sha256": "10ddd132449fab26508fcf51e8e3e99e2b38d9fa4863c409f1cf39123ee4a11f"
+      }
+    },
+    {
+      "id": "swords-11",
+      "group": "swords",
+      "index": 11,
+      "nameZh": "宝剑侍从",
+      "nameEn": "Page of Swords",
+      "publicPath": "cards/webp/swords-11.webp",
+      "source": {
+        "path": "assets/cards/source/swords-11.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3580035,
+        "sha256": "828ec4586ccec709e8ae3a3073f9386014529d2b603e9972a08bb74211266c7d"
+      },
+      "production": {
+        "path": "assets/cards/webp/swords-11.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 154592,
+        "sha256": "84584326980cdb33295a3672ad863d1372938d15677a318ff29b734e975be94f"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/swords-11.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 14080,
+        "sha256": "c2f59d8bc6296407f52f71e2b1d01e0624e5a6d6ae6c7c488f79e67bb9f0b633"
+      }
+    },
+    {
+      "id": "swords-12",
+      "group": "swords",
+      "index": 12,
+      "nameZh": "宝剑骑士",
+      "nameEn": "Knight of Swords",
+      "publicPath": "cards/webp/swords-12.webp",
+      "source": {
+        "path": "assets/cards/source/swords-12.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3903872,
+        "sha256": "f4d982bfce3d0118c71d62658fcda05b048d25d9b25e16adc01463361d9c6966"
+      },
+      "production": {
+        "path": "assets/cards/webp/swords-12.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 192390,
+        "sha256": "a34f08080d57485abf0c83ffc40eb79e763a231f8404b380ac1116e1258ac426"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/swords-12.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 17608,
+        "sha256": "ba1ca6c0b9e278e5b2fbec858088582f06a85bab4476d3695a238ce6cc69b431"
+      }
+    },
+    {
+      "id": "swords-13",
+      "group": "swords",
+      "index": 13,
+      "nameZh": "宝剑皇后",
+      "nameEn": "Queen of Swords",
+      "publicPath": "cards/webp/swords-13.webp",
+      "source": {
+        "path": "assets/cards/source/swords-13.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3645292,
+        "sha256": "cd52814c82cc66fba599109c94c68099ebe675ca062aee1f051de3ffad03a2bd"
+      },
+      "production": {
+        "path": "assets/cards/webp/swords-13.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 161244,
+        "sha256": "6471172d21bca8096bd292807df3219d02eb990f76a85acfa1344aa95973da1f"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/swords-13.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 13886,
+        "sha256": "4b279daa05b3179f38fb6d5a59cc25ec8d44ec4e3a4711c82627abe1698826a1"
+      }
+    },
+    {
+      "id": "swords-14",
+      "group": "swords",
+      "index": 14,
+      "nameZh": "宝剑国王",
+      "nameEn": "King of Swords",
+      "publicPath": "cards/webp/swords-14.webp",
+      "source": {
+        "path": "assets/cards/source/swords-14.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3769793,
+        "sha256": "fab86192992648c7434a7ddd943bcbab61ee8693a77c068e046c7b10a80804a3"
+      },
+      "production": {
+        "path": "assets/cards/webp/swords-14.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 175238,
+        "sha256": "188938fe19b2fdb1ff8b8ced51a481f7861926bfe1d3681ee5a016701605cf1d"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/swords-14.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 14870,
+        "sha256": "7585d3f636e6905329b5a5a462445e5b1264c1d88f61dc4f736499d0514d27c4"
+      }
+    },
+    {
+      "id": "pentacles-01",
+      "group": "pentacles",
+      "index": 1,
+      "nameZh": "星币王牌",
+      "nameEn": "Ace of Pentacles",
+      "publicPath": "cards/webp/pentacles-01.webp",
+      "source": {
+        "path": "assets/cards/source/pentacles-01.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3841542,
+        "sha256": "2d71ff2dabb4f234b13eb2bcd8ff7e46779b90dd50dafb858e29da6718251f83"
+      },
+      "production": {
+        "path": "assets/cards/webp/pentacles-01.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 187456,
+        "sha256": "736e23f6b37785dd7a17508a718e8d5fc32683fb56d16cd96cfc1be106c2e162"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/pentacles-01.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16882,
+        "sha256": "1756c0ce16a8ef24dcd9dc84bfb7b760d37cb9a7681bc75ea11433fca86f6e19"
+      }
+    },
+    {
+      "id": "pentacles-02",
+      "group": "pentacles",
+      "index": 2,
+      "nameZh": "星币二",
+      "nameEn": "Two of Pentacles",
+      "publicPath": "cards/webp/pentacles-02.webp",
+      "source": {
+        "path": "assets/cards/source/pentacles-02.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3873264,
+        "sha256": "1d1477b1eccd9e112d05435039b2ce4cab2f7e0786840233fde04021d572e00d"
+      },
+      "production": {
+        "path": "assets/cards/webp/pentacles-02.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 191804,
+        "sha256": "dc783c2565f1941781f62c166619a6bec2365a0e928842e4740309fa85ffdae7"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/pentacles-02.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 17202,
+        "sha256": "311aaaed1106e331abf92352fb1b49257f7df8428f90322132a859bc89fe48f0"
+      }
+    },
+    {
+      "id": "pentacles-03",
+      "group": "pentacles",
+      "index": 3,
+      "nameZh": "星币三",
+      "nameEn": "Three of Pentacles",
+      "publicPath": "cards/webp/pentacles-03.webp",
+      "source": {
+        "path": "assets/cards/source/pentacles-03.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3892047,
+        "sha256": "a3bcbe07fda3492d0caf6fb683f1d0bba386e5d1d4ff1b621af84d30fdc5b365"
+      },
+      "production": {
+        "path": "assets/cards/webp/pentacles-03.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 193732,
+        "sha256": "0f27d59a58fc3e11c77699052d2ef01def8524cba4905cbd9f81712139a90e87"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/pentacles-03.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16138,
+        "sha256": "abdbc2b216c2e0834699c945a95cd7807116129e0ca14e4aab1b942c600db9c0"
+      }
+    },
+    {
+      "id": "pentacles-04",
+      "group": "pentacles",
+      "index": 4,
+      "nameZh": "星币四",
+      "nameEn": "Four of Pentacles",
+      "publicPath": "cards/webp/pentacles-04.webp",
+      "source": {
+        "path": "assets/cards/source/pentacles-04.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3882092,
+        "sha256": "d4cad8cf31cbdfe4cb6e0e3b9cbd972edacbfebb02700f191acb84bb8a9c0411"
+      },
+      "production": {
+        "path": "assets/cards/webp/pentacles-04.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 193036,
+        "sha256": "fcf308bf7d52f25fa39c925e2a2937e9e87db15ed24b73596304fd6cfac34ff9"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/pentacles-04.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 15322,
+        "sha256": "487fa45da7750fa3ae3a967a51b3f16f4e53d4df268ec385670a1691d6f42e22"
+      }
+    },
+    {
+      "id": "pentacles-05",
+      "group": "pentacles",
+      "index": 5,
+      "nameZh": "星币五",
+      "nameEn": "Five of Pentacles",
+      "publicPath": "cards/webp/pentacles-05.webp",
+      "source": {
+        "path": "assets/cards/source/pentacles-05.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3844230,
+        "sha256": "520b4357e54b8a968ac28c3370158fb0cf16057737b84b4207485977b9741771"
+      },
+      "production": {
+        "path": "assets/cards/webp/pentacles-05.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 197508,
+        "sha256": "4fb71e56a23fabbaf9f81d3c372e794201fdcb552d7edf8fbcbf8a56a6ca3afc"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/pentacles-05.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 18746,
+        "sha256": "2c357dd6929f6d28bcc5224bd977489596209b9576c9e0e58339185b521476f3"
+      }
+    },
+    {
+      "id": "pentacles-06",
+      "group": "pentacles",
+      "index": 6,
+      "nameZh": "星币六",
+      "nameEn": "Six of Pentacles",
+      "publicPath": "cards/webp/pentacles-06.webp",
+      "source": {
+        "path": "assets/cards/source/pentacles-06.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3861609,
+        "sha256": "8b7a0a2abde6cbe4950898e1dc8854f2936ddf64862af007fbef5099be674bbb"
+      },
+      "production": {
+        "path": "assets/cards/webp/pentacles-06.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 189982,
+        "sha256": "d5f085eefffc51f51fb341dc1df4701044b337fe277651e92e53fc36ac809043"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/pentacles-06.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 15658,
+        "sha256": "cc29387eabeb651b504a698d9c05bda985de7bd9c1e079bb0a1ff1a6299a15c6"
+      }
+    },
+    {
+      "id": "pentacles-07",
+      "group": "pentacles",
+      "index": 7,
+      "nameZh": "星币七",
+      "nameEn": "Seven of Pentacles",
+      "publicPath": "cards/webp/pentacles-07.webp",
+      "source": {
+        "path": "assets/cards/source/pentacles-07.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3889064,
+        "sha256": "aad0203f59ff7b641e65408e570fb001238ffe770c2ee91001048853efdb19da"
+      },
+      "production": {
+        "path": "assets/cards/webp/pentacles-07.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 198206,
+        "sha256": "2246c10da11cf123fceb08714eff86ec53b15776e3675b00a3431437f47afb41"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/pentacles-07.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16880,
+        "sha256": "8aec3ed6c9f089263992bcd7afe2f9c8722026f6396f69e0633cd22c8443e060"
+      }
+    },
+    {
+      "id": "pentacles-08",
+      "group": "pentacles",
+      "index": 8,
+      "nameZh": "星币八",
+      "nameEn": "Eight of Pentacles",
+      "publicPath": "cards/webp/pentacles-08.webp",
+      "source": {
+        "path": "assets/cards/source/pentacles-08.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3948428,
+        "sha256": "37fcdb19a41b5833c079f4207d06e33f757555f1ce64532c4202977ca744ab9e"
+      },
+      "production": {
+        "path": "assets/cards/webp/pentacles-08.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 199636,
+        "sha256": "5ad7d65e094bc348c32fe991c83585e819e01e84e30206cde1c305722d8814c6"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/pentacles-08.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16312,
+        "sha256": "cdaee717bc0e52b49ea09b71507709b7a69ecefd2d26c3978b46816935001637"
+      }
+    },
+    {
+      "id": "pentacles-09",
+      "group": "pentacles",
+      "index": 9,
+      "nameZh": "星币九",
+      "nameEn": "Nine of Pentacles",
+      "publicPath": "cards/webp/pentacles-09.webp",
+      "source": {
+        "path": "assets/cards/source/pentacles-09.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3933342,
+        "sha256": "54287690cb0b079e7fd717feea8e6243b1e55d390bb73268b0ce24e5f2feb2e4"
+      },
+      "production": {
+        "path": "assets/cards/webp/pentacles-09.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 205212,
+        "sha256": "db729050a4835add7f6810a38a9bd507a23b57b049621a034494f9d49c111f72"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/pentacles-09.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 17514,
+        "sha256": "a74b5dd6b0e5e8fcc545440f66fce46fc336a9ff4b24dbd0be89f067836ec0f3"
+      }
+    },
+    {
+      "id": "pentacles-10",
+      "group": "pentacles",
+      "index": 10,
+      "nameZh": "星币十",
+      "nameEn": "Ten of Pentacles",
+      "publicPath": "cards/webp/pentacles-10.webp",
+      "source": {
+        "path": "assets/cards/source/pentacles-10.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3622325,
+        "sha256": "990cce1995ed0db9ef45e030a46855b7772e21187937815521c089919f50b9d3"
+      },
+      "production": {
+        "path": "assets/cards/webp/pentacles-10.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 196172,
+        "sha256": "b69f55dfd26a655ec019edddeef33f3e06a9658dc526f329e547b64af6c0f56a"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/pentacles-10.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 17742,
+        "sha256": "0cf6a42173e3dccfad0e8fa71482dd071e054273c81a07b075d690b199bfcf6b"
+      }
+    },
+    {
+      "id": "pentacles-11",
+      "group": "pentacles",
+      "index": 11,
+      "nameZh": "星币侍从",
+      "nameEn": "Page of Pentacles",
+      "publicPath": "cards/webp/pentacles-11.webp",
+      "source": {
+        "path": "assets/cards/source/pentacles-11.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3793421,
+        "sha256": "b309c1c66f4274391bf1dcb8446e21218fbadb43f7f0bf42f85c1c5024d222ad"
+      },
+      "production": {
+        "path": "assets/cards/webp/pentacles-11.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 175898,
+        "sha256": "37da0e02f522275e05138f46c6085564287bbec9b3158008c1fef3b1d5ed7a17"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/pentacles-11.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 14818,
+        "sha256": "aa1a4738b1b2c73f0926d62fd228fcd207ea145beeb3dd1b0bd04adb874906a9"
+      }
+    },
+    {
+      "id": "pentacles-12",
+      "group": "pentacles",
+      "index": 12,
+      "nameZh": "星币骑士",
+      "nameEn": "Knight of Pentacles",
+      "publicPath": "cards/webp/pentacles-12.webp",
+      "source": {
+        "path": "assets/cards/source/pentacles-12.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3785952,
+        "sha256": "91be6009263ca1aaa1802671d3152c318d8990f40cfea5f26585facd052af5e7"
+      },
+      "production": {
+        "path": "assets/cards/webp/pentacles-12.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 180854,
+        "sha256": "ea78b2a9808ef353ca09a7e6940227c30455f3dcffde85077803e7cdc791fa70"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/pentacles-12.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 15160,
+        "sha256": "2c40d218d1247ddd8f3105aa09f9f97febcdc7ecdead450b248174e5df5fae3e"
+      }
+    },
+    {
+      "id": "pentacles-13",
+      "group": "pentacles",
+      "index": 13,
+      "nameZh": "星币皇后",
+      "nameEn": "Queen of Pentacles",
+      "publicPath": "cards/webp/pentacles-13.webp",
+      "source": {
+        "path": "assets/cards/source/pentacles-13.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3854745,
+        "sha256": "976459f5810f6fac351d8dadf83ee71bf69d1b2c4f1f993c9012f4b45066b86c"
+      },
+      "production": {
+        "path": "assets/cards/webp/pentacles-13.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 195172,
+        "sha256": "bf212bdc7cd69bedb21cebf11f025836c0ee5b24a3f5cf54169b49e0081dc18d"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/pentacles-13.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 16254,
+        "sha256": "a7c2dcba02565ea43355f45ec4a3433f27454377ded9a59372d2318ee2c2e01b"
+      }
+    },
+    {
+      "id": "pentacles-14",
+      "group": "pentacles",
+      "index": 14,
+      "nameZh": "星币国王",
+      "nameEn": "King of Pentacles",
+      "publicPath": "cards/webp/pentacles-14.webp",
+      "source": {
+        "path": "assets/cards/source/pentacles-14.png",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 3930022,
+        "sha256": "30378834d82031bcaf0c30be7542f86d32d4654eda805c6851b4e905308a7bc7"
+      },
+      "production": {
+        "path": "assets/cards/webp/pentacles-14.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 207976,
+        "sha256": "9d6c8a569b39febe3629b2cc5139fe235e4f4185f73ad30e297c765a63bf9f1f"
+      },
+      "thumbnail": {
+        "path": "assets/cards/thumbs/pentacles-14.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 17986,
+        "sha256": "0af9cc8b30d3ce15ca1e4aa3af98b1c6304d10c8af585d9130d70f2cce40e3ff"
+      }
+    }
+  ],
+  "cardBack": {
+    "id": "card-back",
+    "publicPath": "cards/webp/card-back.webp",
+    "source": {
+      "path": "assets/cards/source/card-back.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 3880769,
+      "sha256": "51b3fe40439ca9297ee61df0e69ca9639554e92b9e830f101f7d969203bc9344"
+    },
+    "production": {
+      "path": "assets/cards/webp/card-back.webp",
+      "width": 800,
+      "height": 1200,
+      "bytes": 195214,
+      "sha256": "110cc2dee612d84a04438d3ac1bb96be044b0ccbcffbb59e1d807e995f9d88be"
+    },
+    "thumbnail": {
+      "path": "assets/cards/thumbs/card-back.webp",
+      "width": 240,
+      "height": 360,
+      "bytes": 23376,
+      "sha256": "15417fea0200ed5b7c35db8c872a22383e2fd989534ec90de49298034584be78"
+    }
+  }
+}
